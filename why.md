@@ -7,4 +7,13 @@ The Released Method aims to deliver a commercially capable release, in the short
 
 It is not designed to work within large enterprise as they have a significant amount of internal stakeholders and product owners and it is not expected that this approach works well in that scenario.
 
-It is designed, however to work well in a skunk works style environment and is tailored to delivering innovatove or ground breaking software never seen before.
+It is designed, however to work well in a skunk works style environment and is tailored to delivering innovative or ground breaking software never seen before.
+
+Key Features of the Released Method are:
+
+* Quality Software
+* Testing
+* Automated Release
+* Team Management
+* Agility
+* Reduced Cost
