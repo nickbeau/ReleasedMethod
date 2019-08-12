@@ -1,4 +1,4 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) 
+[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
 # Introduction
 Welcome to the Released Method. This is a method for the delivery and management of large scale software systems. Birthed as agile methodologies were first introduced, the Released Method aims to integrate together all of the aspects of a software product team to ensure that what is delivered is extremely high quality and meets the needs and expectations of the customer.
 
