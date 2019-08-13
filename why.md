@@ -17,3 +17,16 @@ Key Features of the Released Method are:
 * Team Management
 * Agility
 * Reduced Cost
+
+# Business Case
+Embarking on a new software development project is a voyage into the unknown. Unlike constructing a bridge, it is not possible to predict how long a software development project will take as there are a significant number of unknown items and items that will be refined along the way.
+
+Agile development also makes it difficult to accurately predict the cost of a project as the process of developing software in an agile fashion is fluid and can change.
+
+Rather than use command-and-control techniques to control such a project, entrepreneurs need a way to predict outcomes and costs. The Released Method assures a level of quality deliverable and breaks the delivery into sprints, short bounded work units with agreed budget, time and outcome.
+
+*It should be noted, that a sprint is an intention, and as the project matures these get increasingly predictable*.
+
+Given it is not possible to accurately predict the cost and duration of all but the most simple software projects, the Released Method allows delivery within a budget, ensuring that should cost be fixed, the methodology is agile enough to adapt cost and time to suffice.
+
+In addition, using such a tried and tested methodology, users can be assured of a "decent" result, within the various constraints.
