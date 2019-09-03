@@ -18,7 +18,7 @@ Ensure the following processes are documented and are being followed:
 
  * [ ] Daily Triage Process
  * [ ] Issue Management Process
- * [ ] Task Lifecycle process
+ * [ ] Task life-cycle process
  * [ ] Automated Build Process
  * [ ] Automated Release Process
  * [ ] Peer Review Process
