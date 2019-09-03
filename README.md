@@ -44,4 +44,7 @@ This results in a project which:
 * Increases Team Cadence
 * Increases Transparency
 * Produces Commercial Quality Deliverables
+
+## Measure Yourself
+If you want to see how you compare, see the [Startup Checklist](startup-checklist.md).
   
