@@ -40,3 +40,21 @@ Ensure you have the following technology systems in place:
 * [ ] Automated Test System
 * [ ] Automated Release System
 * [ ] Documentation System
+
+## Minimum Viable Team
+Ensure you have the following team members:
+
+* [ ] **Hustler** - This is the business person who will not only manage the business, but manages sales, marketing, social presence and mode.
+* [ ] **Hacker** - This is the technology leader with a good deal of knowledge of building large, scalable commercial quality systems.
+* [ ] **Hipster** - This is a user experience expert, respoinsible for design, user flows, user education and more.
+
+## Documentation
+Successful projects are quite obvious through their use of documentation. A well documented system and business is far more likely to be successful.
+
+* [ ] Code Commenting
+* [ ] API Documentation
+* [ ] Design and Purpose Documentation
+* [ ] Risk and Issues Documentation
+* [ ] Sprint and Project Planning Documentation
+* [ ] End User Documentation
+* [ ] SDK Documentation
