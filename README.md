@@ -7,7 +7,7 @@
 * ### [Pillars](pillars.md) - The key areas of the method
 * ### [Systems](systems.md) - The key systems used
 * ### [Why?](why.md) - The business case for the model
-* ### [Team](team.md) - The Team model
+* ### [Team](team-model.md) - The Team model
 
 ## About the Method
 The Released Method was developed over 20 years of leading software development teams by Nick Beaugeard. Nick is an experienced software architect and startup founder and has a background in running and operating software development teams:
