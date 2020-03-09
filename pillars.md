@@ -8,3 +8,4 @@ There are five pillars that make up the released process. These are:
 * [Testing and Quality Assurance](testing-qa.md)
 * [Release Management](release-management.md)
 * [Documentation](documentation.md)
+* [Selling](sales-kit.md)
