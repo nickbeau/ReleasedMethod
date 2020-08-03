@@ -99,6 +99,6 @@ Once the product component is ready, it goes through the following major process
 We validate the component against the written and agreed specification. If it meets it, we discuss if it is what the client wants or needs. We make sure its what everyone wants, then we run through the code, reviewing and improving where we can and raise issues for future refactoring. The code gets released and the burndown now contains new items to perform.
 
 
-# The Sprint
+## The Sprint
 
 A spring contains all the items above, for one or more features. Sprints are initially articulated based on a defined specification, but as the project continues can be used differently based on the changing customer requirements.
