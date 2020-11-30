@@ -13,7 +13,7 @@ Even with off-the-shelf software, it is important to create a proposal document 
 Describe the solution in terms the customer uses when choosing the solution.
 
 ## Implementation Plan
-Describe how the technology will be implemented in the customer environment.
+Describe how this technology will be implemented in the customer environment.
 
 ## Migration Plan
 If you are moving from legacy technology, describe how this process will occur.
