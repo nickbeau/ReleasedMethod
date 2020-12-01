@@ -1,3 +1,5 @@
+[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
+
 # Startup Checklist
 The purpose of this checklist is to provide a list of items to verify if you want to ensure that your startup is operating with the best possible chance of success.
 
