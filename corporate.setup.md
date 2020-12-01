@@ -1,3 +1,5 @@
+[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
+
 # Corporate Setup
 The following checklist details the items that need to be performed when establishing your corporate presence. It assumes you are establishing a single company (LLC or PTY) and that is will trade and hold all intellectual property. It is recommended that you *seek advice* prior to commencing with this checklist as all circumstances differ and this can only offer advice which is general in nature.
 
