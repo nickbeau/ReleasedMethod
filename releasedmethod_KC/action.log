@@ -1,0 +1,16 @@
+[Tue Dec 01 21:13:55 UTC 2020][INFO] [Action] EE NewBook
+[Tue Dec 01 21:13:59 UTC 2020][INFO] [Action] E AutoChapterGroupAction - 0
+[Tue Dec 01 21:14:07 UTC 2020][INFO] [Action] E InsertTextContent - (r,18,20),[O]
+[Tue Dec 01 21:14:08 UTC 2020][INFO] [Action] E InsertTextContent - (c,18,2),[D]
+[Tue Dec 01 21:14:10 UTC 2020][INFO] [Action] E RevertApplyAutoChapterAction - (r,1,1)
+[Tue Dec 01 21:14:12 UTC 2020][INFO] [Action] E DeleteContent - (c,19,2),B
+[Tue Dec 01 21:14:12 UTC 2020][INFO] [Action] E DeleteContent - (c,18,2),B
+[Tue Dec 01 21:14:13 UTC 2020][INFO] [Action] E InsertTextContent - (c,17,2),[o]
+[Tue Dec 01 21:14:13 UTC 2020][INFO] [Action] E InsertTextContent - (c,18,2),[d]
+[Tue Dec 01 21:14:19 UTC 2020][INFO] [Action] E DeleteContent - (r,228,490),F
+[Tue Dec 01 21:14:53 UTC 2020][INFO] [Action] E FixedFormAction - MCw2OCxQUk9QLUxJU1Q6eyJjb21wb25lbnRzIjpbeyJuYW1lIjoiYm9va190aXRsZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJUaGUgUmVsZWFzZWQgTWV0aG9kIn0seyJuYW1lIjoiYm9va19zdWJ0aXRsZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIifSx7Im5hbWUiOiJhdXRob3JfbmFtZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJOaWNrIEJlYXVnZWFyZCJ9LHsibmFtZSI6InB1Ymxpc2hlciIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJSZWxlYXNlZCBHcm91cCJ9LHsibmFtZSI6InB1Ymxpc2hlcl9sb2dvIiwidHlwZSI6ImltYWdlIiwidmFsdWUiOiIifV0sInBhZ2VfdHlwZSI6InRpdGxlX3BhZ2UifQo=
+[Tue Dec 01 21:15:03 UTC 2020][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiUmVsZWFzZWQgR3JvdXAifSx7Im5hbWUiOiJjb3B5cmlnaHRfeWVhciIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIyMDIwIn0seyJuYW1lIjoiY29weXJpZ2h0X3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQWxsIHJpZ2h0cyByZXNlcnZlZFxuXG5UaGUgY2hhcmFjdGVycyBhbmQgZXZlbnRzIHBvcnRyYXllZCBpbiB0aGlzIGJvb2sgYXJlIGZpY3RpdGlvdXMuIEFueSBzaW1pbGFyaXR5IHRvIHJlYWwgcGVyc29ucywgbGl2aW5nIG9yIGRlYWQsIGlzIGNvaW5jaWRlbnRhbCBhbmQgbm90IGludGVuZGVkIGJ5IHRoZSBhdXRob3IuXG5cbk5vIHBhcnQgb2YgdGhpcyBib29rIG1heSBiZSByZXByb2R1Y2VkLCBvciBzdG9yZWQgaW4gYSByZXRyaWV2YWwgc3lzdGVtLCBvciB0cmFuc21pdHRlZCBpbiBhbnkgZm9ybSBvciBieSBhbnkgbWVhbnMsIGVsZWN0cm9uaWMsIG1lY2hhbmljYWwsIHBob3RvY29weWluZywgcmVjb3JkaW5nLCBvciBvdGhlcndpc2UsIHdpdGhvdXQgZXhwcmVzcyB3cml0dGVuIHBlcm1pc3Npb24gb2YgdGhlIHB1Ymxpc2hlci5cblxuSVNCTi0xMzogOTc4MTIzNDU2Nzg5MFxuSVNCTi0xMDogMTQ3NzEyMzQ1NlxuXG5Db3ZlciBkZXNpZ24gYnk6IEFydCBQYWludGVyXG5MaWJyYXJ5IG9mIENvbmdyZXNzIENvbnRyb2wgTnVtYmVyOiAyMDE4Njc1MzA5XG5QcmludGVkIGluIHRoZSBVbml0ZWQgU3RhdGVzIG9mIEFtZXJpY2EifV0sInBhZ2VfdHlwZSI6ImNvcHlyaWdodCJ9Cg==
+[Tue Dec 01 21:15:10 UTC 2020][INFO] [Action] E DeleteContent - (r,49,655),B
+[Tue Dec 01 21:15:12 UTC 2020][INFO] [Action] E ItemChanged - -1,1
+[Tue Dec 01 21:15:13 UTC 2020][INFO] [Action] E ItemChanged - -1,49
+[Tue Dec 01 21:15:18 UTC 2020][INFO] [Action] E SaveBook - Save
