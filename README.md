@@ -50,3 +50,4 @@ If you want to see how you compare, see the [Startup Checklist](startup-checklis
   
 ## Be a part of it all
 If you want to help grow the Released Method, make sure you read the [Code of Conduct](CODE_OF_CONDUCT.md) then head over to [Contributing Guidelines](CONTRIBUTING.md) to get started.
+

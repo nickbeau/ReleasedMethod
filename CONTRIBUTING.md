@@ -1,5 +1,7 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
+
 # Contributing
+
 Welcome to the Released Method. We welcome contributions.
 
 The documentation is all written in markdown. If you'd like to have additional pages, edits to pages and more considered, please
