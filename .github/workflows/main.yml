@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: |
+          args: >-
             -o output/releasedmethod.docx
             --reference-doc=reference.docx
             -t docx
