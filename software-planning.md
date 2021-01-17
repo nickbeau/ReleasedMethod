@@ -1,4 +1,5 @@
 [Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
+
 # Software Planning and Development
 
 The Software Planning and Development is run according to a cyclical life cycle model as follows:
@@ -50,6 +51,7 @@ its behavior accordingly.
 These phases are defined below
 
 ## Envision
+
 In this phase the project is initially defined, it consists of three major processes:
 
 * Brainstorm
@@ -69,7 +71,8 @@ The output of Envisioning is a set of github issues labelled as follows:
 
 
 ## Prototype
-In this phase, initial prototypes are developed to see if the product is feasible. There are three major processes:
+In this phase, initial prototypes are developed to see if the product is feasible. There are thre
+e major processes:
 
 * Build
 * Verify
@@ -78,6 +81,7 @@ In this phase, initial prototypes are developed to see if the product is feasibl
 We work to construct a working version of the different components. Initially, where experimentations is required, these can be rapidly developed prototypes. Should the concept of feature be feasible, the team should note the results and move to the next one. At all times, these prototypes should be available to the customer.
 
 ## Architect
+
 Once out of the prototype phase, the build of the product components starts for real. Developers follow the processed below:
 
 * Develop
@@ -90,6 +94,7 @@ Unit tests force us to refine the component for security speed and performance.
 
 
 ## Validate
+
 Once the product component is ready, it goes through the following major processes:
 
 * Validate
