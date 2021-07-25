@@ -106,4 +106,4 @@ We validate the component against the written and agreed specification. If it me
 
 ## The Sprint
 
-A spring contains all the items above, for one or more features. Sprints are initially articulated based on a defined specification, but as the project continues can be used differently based on the changing customer requirements.
+A sprint contains all the items above, for one or more features. Sprints are initially articulated based on a defined specification, but as the project continues can be used differently based on the changing customer requirements.
