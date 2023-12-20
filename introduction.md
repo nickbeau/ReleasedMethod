@@ -1,30 +1,29 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
 
-# Introduction
+# Introduction to the Released Method
 
-Welcome to the Released Method. This is a method for the delivery and management of large scale software systems. Birthed as agile methodologies were first introduced, the Released Method aims to integrate all of the aspects of a software product team to ensure that what is delivered is extremely high quality and meets the needs and expectations of the customer.
+Welcome to the Released Method, a comprehensive approach to managing and delivering large-scale software systems. Originating in the era of agile methodologies' emergence, the Released Method combines elements of various software development strategies. Its primary focus is to synergize the facets of a software product team, ensuring delivery of high-quality software that aligns with customer needs and expectations.
 
-Whilst the Released Method is an effective mechanism to deliver high-quality software, it also relies on people. The team needs to have specific skills based on what activities they are to perform, and also need to have effective communications skills.
+The Released Method is not just about processes and technologies; it fundamentally relies on people. It necessitates a team equipped with both the technical skills relevant to their roles and strong communication abilities. This dual focus on expertise and collaboration is key to the method's effectiveness.
 
-Finally comes a reliance on technology. Whilst the original author has his specific favorite technology stack for development it is feasible to implement the released method using many combinations of technology. See the technology reference architecture for more information on the technology requirements.
+Moreover, technology plays a crucial role. Although the method's creator has preferred technology stacks, the Released Method is versatile, adaptable to various technological combinations. For detailed technology requirements and recommendations, refer to the technology reference architecture.
+
+The diagram below illustrates the **People, Process, Technology** triangle, a model that emphasizes the importance of balancing these three elements in a project. The Released Method aims to achieve this balance by focusing on:
+
+| Area     | Investment                                                                                   |
+|----------|----------------------------------------------------------------------------------------------|
+| People   | Utilizing an effective team model and ensuring all critical functions are competently staffed.|
+| Process  | Implementing the pillars of the Released Method to streamline and optimize processes.          |
+| Technology | Integrating comprehensive solutions to meet the system requirements of the method.          |
 
 ![PPP Triangle](img/people-process-technology.png)
 
-The diagram above shows the **People, Process, Technology** triangle. Optimal projects are seen where the investment in all three is balanced. One of the core goals of the Released Method is to balance the three investments as follows:
+## History of the Released Method
 
-| Area | Investment |
-| ---- | ---------- |
-| People | By using an effective team model, and ensuring that all critical functions are well-staffed, the people segment is managed. |
-| Process | By implementing all the pillars of the Released Method, the process segment is managed |
-| Technology | By integrating solutions for all the systems requirements of the Released Method, the technology segment is managed |
+The Released Method's inception can be traced back to the author's experience at Microsoft around the millennium change. This period marked a pivotal shift in the software industry's approach, moving away from the traditional Waterfall Method, which was often misinterpreted from Dr. Winston W. Royce's concepts. The industry sought to rectify decades of misaligned process application, leading to the development of methodologies like Xtreme Programming, Scrum, and others.
 
-## History
+While some practices in these methodologies were considered unconventional, their core approach was largely on point. The Released Method is a refined iteration of these agile methodologies, tailored for the complexities and demands of the 2020s software development landscape.
 
-The initial genesis of the Released Method came from the author's time at Microsoft at the turn of the Millenium. That was at the stage where the software industry realized that the "Waterfall Method" assumed to be espoused by Dr. Winston W Royce, was by accident more likely to be an agile methodology and the industry struggled to correct 40 years of incorrect process teaching and invented sometimes crazy ideas such as Xtreme Programming, Scrum and others.
+## Approach of the Released Method
 
-Whilst some of the practices in those methodologies are "silly" or "strange", their approach is in the main correct. The Released Method can, therefore, be thought of as an implementation of a serious agile methodology for the 2020s.
-
-## Approach
-
-By working on a significant number of software development projects over the years, the released method offers a real-world-tested, comprehensive view on software development best practices.
-
+The Released Method is the culmination of extensive experience in numerous software development projects. It offers a pragmatic, real-world-tested framework, embodying best practices in software development. This approach is not about rigidly adhering to a set of rules; instead, it's about understanding and applying agile principles in a way that makes sense for each unique project, ensuring flexibility, quality, and efficiency in software development processes.

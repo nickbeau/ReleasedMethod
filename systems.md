@@ -1,47 +1,47 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | **[Systems](systems.md)** | [Team](team-model.md)
 
 # Systems
-Systems are as follows:
+
+In the Released Method, systems are integral components that facilitate efficient and effective software development, testing, and collaboration. Below is an enhanced overview of the critical systems vital for the success of a technology startup or software development project.
 
 ## Document Management
-A good document management system which exhibits and delivers version control is critical to the success of a solutions. If the team are up to it, a document management system which integrates with the Software Version Control System is also extremely useful and keeps the documentation of the project inline with the software itself.
+**Importance**: Central to managing and maintaining project documentation.
+- **Version Control Integration**: Ideally, integrates with the software version control system, syncing documentation with software changes.
+- **Accessibility and Searchability**: Ensures easy access and searchability of documents for the team.
 
 ## Software Version Control
-Of critical importance is a software version control system. Examples of this are [Git](https://en.wikipedia.org/wiki/Git), [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) and many more, although the growing de-facto standard is becoming Git. A software version control system should allow your team to change and grow the software in a managed way across different branches, versions and be able to both develop new software and fix bugs.
+**Criticality**: Essential for tracking and managing changes in the software.
+- **Popular Systems**: Git is increasingly the standard, but others like Subversion are also used.
+- **Branching and Merging**: Facilitates efficient handling of multiple development streams, like feature development and bug fixing.
 
 ## Work Item Management
-Like traditional project managed projects, software projects are managed through work items. Work items are records which contain and manage atomic pieces of work that (normally) can be performed by a single developer or team. Work items are of different types and have different states. Common types are:
-
-* Bug
-* Task
-* Feature
-* User Story
-
-Work items are commonly associated with iterations or sprints and can follow the common states:
-
-* New
-* Active
-* Resolved
-* Documentation Required
-* Testing Required
-* Closed
-  
+**Functionality**: Manages tasks and tracks progress.
+- **Types of Work Items**: Includes bugs, tasks, features, and user stories.
+- **States of Work Items**: Follows states like New, Active, Resolved, Documentation Required, Testing Required, and Closed.
+- **Integration with Sprints**: Aligns with agile methodologies, linking work items to sprints or iterations for better tracking.
 
 ## Release and Build
-Once the software is ready to be compiled and delivered to market, it is imperative that this is done through an automated system. It's also common that you will have several environments to test and perform quality assurance on the software before releasing it out to the paying client base.
-
-Software projects are extremely agile things. With the advent of cloud computing, many software teams release incredibly regularly (10 minutes for facebook). This necessitates the need for an automated system to perform this.
+**Automation**: Crucial for consistent and reliable software delivery.
+- **Multiple Environments**: Supports testing in various environments before market release.
+- **Frequency**: Adaptable to different release frequencies, from rapid deployments to scheduled releases.
 
 ## Automated Testing
-Whilst many teams resort to allowing the team to test the software, the more a project grows, the more it needs automated testing. Automated testing can be anything from unit testing to full automated user experience testing. We recommend a code coverage of over 80% before initial release.
+**Necessity**: Increases efficiency and reliability of testing.
+- **Types**: Ranges from unit testing to full-scale automated user experience testing.
+- **Code Coverage Goal**: Aim for over 80% coverage to ensure robustness before initial release.
 
 ## Management Reporting
-What use are all these systems without knowing what is really going on or when you will ship. Reports and Dashboard on the status, velocity and other statistics of the product set are also incredibly important.
+**Insights**: Provides visibility into project status and progress.
+- **Dashboards and Reports**: Tools to visualize project velocity, status, and metrics, guiding decision-making and planning.
 
 ## Collaboration
-Teams are not commonly together all the time. Tools to collaborate are incredibly important. We find that startup teams communicate best using instant messaging that keeps a record, daily meetings via voice and video and a comprehensive document store with fantastic search.
-
-We currently lean towards Microsoft teams.
+**Connectivity**: Facilitates team communication and collaboration, especially important for remote or distributed teams.
+- **Tools**: Preference for platforms like Microsoft Teams, offering instant messaging, voice and video calls, and document sharing.
+- **Record Keeping**: Maintains records of communications for reference and continuity.
 
 ## Development Tools
-A rich set of development tools are really important. Invest in the best IDE's for the software type you are developing, ensure your team have access to the best libraries and tools.
+**Resource Investment**: Allocating resources for the best available development tools.
+- **IDE Selection**: Choose IDEs that best suit the project's technology stack.
+- **Library and Tool Access**: Ensure the team has access to necessary libraries and development tools to enhance productivity and innovation.
+
+These systems, when effectively implemented and utilized, create a robust infrastructure for software development, enabling teams to work efficiently, adapt to changes, and deliver high-quality software products.

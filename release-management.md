@@ -1,81 +1,47 @@
 [Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
-# Release Management
-The Release Management pillar consists of the following:
 
-* Quality Bar
-* Automated Release Process
-* Staging and Production Platforms
-* Release Authorization
-* Version Control
+# Release Management
+
+Release Management is a critical component of the Released Method, encompassing various processes and checks to ensure that each software release is robust, reliable, and meets quality standards. This pillar includes key elements such as Quality Bar, Automated Release Process, Staging and Production Platforms, Release Authorization, and Version Control.
 
 ## Quality Bar
-It's really difficult to decide when a release or product is "done". In fact it's pretty easy to keep going making things incrementally bettwe without ever really achieving a release.
+The Quality Bar defines the criteria for determining when a product or release is ready for deployment. It balances the need for perfection with the practicality of meeting release deadlines. The Quality Bar is essential for guiding teams on when the software is sufficiently refined and tested to be considered "shippable". This criterion varies but typically includes measures like:
 
-Most successful startup companies reward the release or "ship" with an award, because for a company, releasing software is the most important task a development team can perform.
+- Number of outstanding tasks.
+- Number of outstanding bugs.
+- Proportion of tasks tested.
+- Proportion of tasks documented.
 
-However, with the pressure on making the software "perfect" coupled with the pressure of releasing the software, leaders need a way to understand when the software is good enough to ship.
+Each task in a user story or feature undergoes various states from New (Unassigned) to Closed, ensuring comprehensive development, testing, and documentation.
 
-This is the role of the Quality bar. Once software has met the quality bar, it is ready to release.
+### Task Phases
+- **New**: The task is proposed and awaiting approval.
+- **In Development**: Once assigned, the developer iterates until the task reaches code completion.
+- **In Test**: The task undergoes thorough testing. Bugs are identified and logged. Testing metrics, such as code coverage, are considered (see [Testing & QA](testing-qa.md)).
+- **In Documentation**: Post-testing, the task moves to documentation, where its usage and functionalities are detailed. Documentation itself is tested for completeness and accuracy.
+- **Closed**: The task is deemed complete, with ongoing bug resolution.
 
-I espouse a certain quality bar, but you are, of course free to implement whichever quality bar you wish.
+### Quality Bar Metrics
+1. **All Tasks Closed**: Signifies the end of active development for the release.
+2. **No Open Bugs**: Indicates that no critical bugs are pending for the current release.
+3. **Punting**: Deciding to move a task to a subsequent release based on its severity and priority.
 
-There are certain things we can measure in software development and items we cannot. Items we can measure are:
+### Released Method Quality Bar
+In the Released Method, the quality bar is defined by:
+1. Completion of all tasks.
+2. Absence of open Sev 1, Pri 1 Bugs.
+3. Consensus from the Triage Team for release.
 
-* Number of outstanding tasks
-* Number of outstanding Bugs
-* How many tasks have been tested
-* How many tasks have been documented.
+## Automated Release Process
+Implementing an automated release process streamlines deployment, reducing human error and enhancing efficiency. This involves automated builds, testing, and deployment scripts, ensuring consistent and reliable release cycles.
 
-If we were to take a single **user story** or **feature**, this will have a number of tasks. A task should go through the following states:
+## Staging and Production Platforms
+Separating staging and production environments is crucial for safe testing and deployment. Staging environments replicate production settings for final testing, while production environments host the live, user-facing application.
 
-* New [Unassigned]
-* New [Assigned]
-* In Development
-* In Test
-* In Documentation
-* Closed
+## Release Authorization
+Release authorization is a collaborative decision-making process, often involving a Triage Team. Any member can veto a release to address significant concerns, ensuring thorough review and consensus before deployment.
 
-The phases are as follows:
+## Version Control
+Effective version control is indispensable for managing changes in software development. It tracks modifications, supports concurrent work, and facilitates collaboration, ensuring a coherent and organized development process.
 
-### New
-A New task has been considered, and *requested* but is not currently approved or in active development. Once a task has been approved, it is assigned to a developer. The developer moves it between New [Assigned] and In Development until the task is considered "code complete"
-
-## In Test
-Once a task is code complete, it is moved to the test team who *attempt to test as much of the results as they can*. Commonly testing will have target metrics such as code coverage or features coverage. See [Testing & QA](testing-qa.md) for more information.
-
-Once all bugs have been raised (not they have been solved), the task is considered tested and moves to the In Documentation phase, even while bugs are being fixed.
-
-## In Documentation
-Once a task has been tested, it is released to the User Education team to write documentation on how to use the individual feature within the task. Once the documentation is written, it too goes through a similar test process. Once the documentation is written (complete) and all bugs have been raised (tested), the task is marked as closed - even if there are still outstanding bugs.
-
-## Closed
-The task is complete. Even if there are bugs to resolve, the task is finished and we are just fixing bugs and issues. 
-
-## Measure 1
-One Measure of a quality bar is: **All tasks slated for this release are closed** - That means there is no more development to do in this release and every item has been tested and documented.
-
-## Bugs
-I wont' go into why we call problems with software or documentation bugs, but a bug is something wrong with the software or documentation. Bugs are identified and move through a formal process to be resolved.
-
-## Measure 2
-One measure of a quality bar is **There are no open bugs for this release** - It should be noted that this doesn't mean there are no bugs, quite the contrary, it means there are no bugs considered important enough to block this release.
-
-## The art of punting
-Punting is the process of moving a work item from this release to a future release (commonly the next). It is used by triage to determine if an items **priority** or **severity** warrants fixing.
-
-## Measure 3
-Severity and Priority items are considered in the quality bar, for example, any bug under severity one, priority one will be able to be punted to the next release.
-
-## Our Quality Bar
-Following on from this one defines the released method quality bar as follows:
-
-1. All tasks are closed
-2. There are no open Sev 1, Pri 1 Bugs
-3. The Triage Team agrees to release
-
-As Triage is a team of peers, it is common practice to include triage in a release authorisation process, ensuring that everyone agrees to release or not.
-
-## Release Authorisation
-Release Authorisation is the process whereby Triage agrees to release (or not release) this version of the software or solution. Commonly, any individual can block the release, without repercussion, their issues will be reviewed and docuemnted by triage and resolved to their satisfaction.
-
-Following that, release can occur.
+The Release Management pillar is fundamental in ensuring that each software version is released with confidence, meeting the high standards of quality and reliability that are hallmarks of the Released Method.
