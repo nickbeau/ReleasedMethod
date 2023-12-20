@@ -1,53 +1,54 @@
 # Released Method
 
-*This is the Released Method, a model for managing the development of large scale software projects with the goal of delivering solutions quickly, on budget and with high quality*
+*The Released Method is a framework for overseeing the development of extensive software projects, aiming to deliver solutions promptly, within budget, and maintaining high quality.*
 
-## Table of Contents
-* ### [Introduction](introduction.md) - Introduces the Method and its background
-* ### [Pillars](pillars.md) - The key areas of the method
-* ### [Systems](systems.md) - The key systems used
-* ### [Why?](why.md) - The business case for the model
-* ### [Team](team-model.md) - The Team model
+## Contents
+* ### [Introduction](introduction.md) - Overview of the Method and its origins
+* ### [Pillars](pillars.md) - Fundamental areas of the method
+* ### [Systems](systems.md) - Essential systems utilised
+* ### [Why?](why.md) - The rationale behind the model
+* ### [Team](team-model.md) - The team structure
 
 ## About the Method
-The Released Method was developed over 20 years of leading software development teams by Nick Beaugeard. Nick is an experienced software architect and startup founder and has a background in running and operating software development teams:
+Developed by Nick Beaugeard, with 20 years of leadership in software development teams, the Released Method is the culmination of his experience as a software architect and startup founder. His history includes:
 
-* Released Microsoft SMS Installer with ISU (2000)
-* Released Bellerephon Desktop Deployment Service (2003)
-* Released Dimension Data Dynamic Desktop Deployment (2005)
-  * Won [3 Microsoft Partner Awards](https://www.computerworld.com.au/article/162101/dimension_data_awarded_three_microsoft_global_partner_awards_2006/)
-* Released Dimension Data SLAM (2007)
-* Released Community Engine (2008)
-* Released HubOne Modern Practice (2010)
-  * Won ARN Software Developer of the Year Award
-  * Won AFR Top 100 Companies to Watch
-  * Won RedHerring 2011 Award
-* Released HubOne Engine (2012)
-* Released WorkflowMax PowerShell Library (2013)
-* Released Scanned Document Manager (2014)
-* Released H&R Block Training Portal (2015)
-* Released Invicta Special Forces Management Tools (2016)
-* Released CA Kairos (2017)
-  * Won ARN Software Developer of the Year Award
-* Released CCH iFirm Document Manager (2018)
+* Launch of Microsoft SMS Installer with ISU (2000)
+* Launch of Bellerephon Desktop Deployment Service (2003)
+* Launch of Dimension Data Dynamic Desktop Deployment (2005)
+  * Secured [3 Microsoft Partner Awards](https://www.computerworld.com.au/article/162101/dimension_data_awarded_three_microsoft_global_partner_awards_2006/)
+* Launch of Dimension Data SLAM (2007)
+* Launch of Community Engine (2008)
+* Launch of HubOne Modern Practice (2010)
+  * ARN Software Developer of the Year Award
+  * AFR Top 100 Companies to Watch
+  * RedHerring 2011 Award
+* Launch of HubOne Engine (2012)
+* Launch of WorkflowMax PowerShell Library (2013)
+* Launch of Scanned Document Manager (2014)
+* Launch of H&R Block Training Portal (2015)
+* Launch of Invicta Special Forces Management Tools (2016)
+* Launch of CA Kairos (2017)
+  * ARN Software Developer of the Year Award
+* Launch of CCH iFirm Document Manager (2018)
   * Runner Up - ARN Software Developer of the Year Award
-* Released Unblocked Platform (2019)
+* Launch of Unblocked Platform (2019)
+* Launch of World of Workflows (2023)
+  * Highly Commended - ARN Software Developer of the Year Award
 
 ## Business Case
-The point of using a structured and robust methodology, tested in many product cycles is to ensure that lessons learned in creating many millions of lines of tested code are applied rather than your project having to learn them again.
+Utilising a proven, structured methodology, honed across numerous product cycles, ensures the application of lessons learned from developing millions of lines of tested code, preventing repeated learning for new projects.
 
-This results in a project which:
-* Delivers its Outcomes
-* Reduces Costs
-* Increases Quality
-* Reduces Risk
-* Increases Team Cadence
-* Increases Transparency
-* Produces Commercial Quality Deliverables
+This approach leads to a project that:
+* Achieves its Goals
+* Cuts Costs
+* Enhances Quality
+* Minimises Risk
+* Boosts Team Rhythm
+* Improves Transparency
+* Yields Commercial-Quality Outputs
 
 ## Measure Yourself
-If you want to see how you compare, see the [Startup Checklist](startup-checklist.md).
+To gauge your progress, visit the [Startup Checklist](startup-checklist.md).
   
-## Be a part of it all
-If you want to help grow the Released Method, make sure you read the [Code of Conduct](CODE_OF_CONDUCT.md) then head over to [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
+## Join the Journey
+To contribute to the growth of the Released Method, start by reading the [Code of Conduct](CODE_OF_CONDUCT.md), then proceed to the [Contributing Guidelines](CONTRIBUTING.md).

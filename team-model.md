@@ -1,46 +1,52 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | **[Team](team-model.md)**
 
 # Team Model
-The Team model consists of a number of roles and functions. However there is a minimum viable team required for any startup. In our experience, any team with less than the below roles is unlikely to succeed. *Thanks to Angela Bee Chan, from [Hackathons Australia](https://www.hackathonsaustralia.com/) for the inspiration for this one*.
 
-At a high level The ‘hacker’ is someone who can code, the ‘hustler’ brings the concept together, whilst the ‘hipster’ is the designer. 
+In the Released Method, the team model is foundational for a startup's success, delineating essential roles and functions necessary at various stages of growth. Inspired by insights from Angela Bee Chan of [Hackathons Australia](https://www.hackathonsaustralia.com/), this model outlines the minimum viable team structure and the additional roles required as the startup matures and scales.
 
-# Minimum Viable Team
-## Hustler
-Commonly the CEO or "business person" in a startup, the Hustler is responsible for the overall idea, the marketing and business strategy, sales, growth and how the business spends and generates money.
+## Minimum Viable Team
+### Hustler
+- **Role**: Often the CEO or business leader.
+- **Responsibilities**: Drives the overall vision, business strategy, marketing, sales, financial planning, and revenue generation.
 
-## Hacker
-The Hacker needs to have the skills to build the product that the startup will sell. Whilst having a single hacker is superb for prototype, you will need a Tester to get into production.
+### Hacker
+- **Skills**: Essential coding and technical skills to build the initial product.
+- **Expansion**: As the startup progresses, the need for a dedicated Tester becomes crucial for quality assurance.
 
-## Hipster
-The Hipster has the design skills in the team. They should be comfortable doing everything from designing user interface, plotting user experience to building websites and cute emails. They should be able to generate graphics, logos and more.
+### Hipster
+- **Design Expertise**: Responsible for user interface and experience design, branding, website development, and visual communication.
 
-# Release Team
-The Minimum viable team will only get you to prototype (which is a way to seek funding). If you want to actually release a product to market, you will need a few more roles filled.
+## Release Team
+To transition from prototype to market-ready product, additional roles are vital:
 
-## Accountant
-Good accountants are worth their weight in gold. You will need accounts, cards, books, ledgers, invoicing, billing systems and more.
+### Accountant
+- **Value**: Manages financial operations including accounting, invoicing, and billing systems.
+- **Importance**: Crucial for financial health and compliance.
 
-## Lawyer
-You will need terms and conditions, NDAs, Privacy Policies, contracts and many more documents.
+### Lawyer
+- **Legal Guidance**: Provides essential legal support, drafting terms, NDAs, privacy policies, and contracts.
 
-## Tester
-The software your build will have bugs. It will always have bugs. The role of the tester is to make it have less bugs. There is no such thing as no bugs. Once you are cool with that, hire a tester who can also code and you'll have automated test and releases all day long.
+### Tester
+- **Quality Assurance**: Focuses on identifying and reducing bugs in the software.
+- **Evolution**: In advanced stages, can contribute to automated testing and release processes.
 
-# Scale Team
-Once you're in market, you will need to scale. The following roles are your scale roles:
+## Scale Team
+As the startup enters the market and begins to grow, the team needs to expand to support scaling:
 
-## Support Team
-These folks speak to customers with problems and help them.
+### Support Team
+- **Customer Interaction**: Addresses customer inquiries and troubleshoots issues, enhancing customer satisfaction and loyalty.
 
-## Developers
-These folks write more and more code.
+### Developers
+- **Expanded Development**: Takes on the development of new features, maintenance, and ongoing improvements to the software.
 
-## Desginers
-These folks make more and more pretty stuff
+### Designers
+- **Creative Expansion**: Continues to enhance the visual and user experience aspects of the product.
 
-## Testers
-Still trying to get rid of bugs
+### Testers
+- **Ongoing Quality Assurance**: Persistently works towards identifying and solving bugs, ensuring the product's reliability.
 
-## Admin
-You know you've made it when you need Accounts people, sales people and HR People. If you need these before profitability you are probably doing something wrong.
+### Administrative Roles
+- **Operational Support**: Includes roles in accounting, sales, HR, and administration, crucial for a growing organization.
+- **Timing**: These roles become necessary as the startup achieves profitability and operational complexity increases.
+
+By adhering to this team model, a startup can effectively navigate through different phases of its lifecycle, from inception and prototyping to market release and eventual scaling. The right team composition at each stage is essential for balancing innovation, technical excellence, business acumen, and operational efficiency.

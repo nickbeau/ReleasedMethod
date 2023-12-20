@@ -1,78 +1,67 @@
 [Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
 
-
 # Testing and Quality Assurance
-Testing and Quality Assurance follows a cyclical model as follows:
 
-## Testing
-  * **Unit Tests** are automated components of electronic testing of the software to ensure functions operate as desired 
-  * **Code Analysis** is the process of analysing code for defects at a line by line level using automated tools. 
-  * **Automated Tests** commonly automate the user interface and test the UI does what is required. 
-  * **Manual Tests** are manual tests performed by humans to ensure the application works as desired.
+In the Released Method, Testing and Quality Assurance are pivotal for ensuring software reliability and customer satisfaction. This process follows a comprehensive and structured approach, encompassing various types of testing and a systematic handling of bugs.
 
-The person (or manager of a system) which creates a bug is called the **originator**
+## Testing Methodologies
+The testing process incorporates multiple layers to ensure thorough evaluation:
 
-## Bug
+### Unit Tests
+- **Purpose**: Tests individual components or functions for expected operation.
+- **Automation**: Typically automated to run frequently during development cycles.
 
-The result of testing is a **bug**. A **bug** is a record of something being wrong with the software. Bugs should include the following detail:
+### Code Analysis
+- **Objective**: Identifies potential issues at a code level using automated tools.
+- **Scope**: Includes checking for syntax errors, potential bugs, and style inconsistencies.
 
-| Item | Description |
-| -- | -- |
-| Title | One line, simple description of the Bug |
-| Id | Preferably an integer, representing the bug number |
-| Description | a detailed description of the bug, describing the issue, how to **reproduce it** and the impact |
-| Severity | The impact of this bug to the software or customer |
-| Priority | The order in which the fix should be developed |
-| Comments | An ongoing commentary of this issue |
-| Labels | Additional Labels depending on workflow |
-| Originator | The individual who created the bug report |
-| Owner | The individual who currently owns this bug report |
+### Automated Tests
+- **Focus**: Simulates user interactions with the UI to verify functionality.
+- **Benefits**: Reduces the need for manual testing and ensures repeatability.
 
+### Manual Tests
+- **Role**: Performed by human testers to catch issues that automated tests may miss.
+- **Importance**: Critical for assessing usability and real-world application scenarios.
 
+## Bug Reporting and Management
+A structured approach to bug reporting enhances the efficiency of resolving issues:
 
+### Bug Report Components
+- **Title**: Concise summary of the issue.
+- **Id**: Unique identifier for tracking.
+- **Description**: Detailed account of the issue, reproduction steps, and impact.
+- **Severity and Priority**: Assessed to prioritize bug fixing efforts.
+- **Comments**: For ongoing updates and communication regarding the bug.
+- **Labels**: For categorizing and workflow management.
+- **Originator and Owner**: Denoting the reporter and current handler of the issue.
 
-People are commonly very poor at creating bug records that can be resolved easily by a developer. In order for a bug to be a "good bug" it needs to have a **repro**
+### Reproduction (Repro)
+- **Necessity**: Clear, step-by-step instructions to replicate the bug.
+- **Details**: Includes conditions under which the bug occurs and why the behavior is incorrect.
 
-## Repro
+## Severity Levels
+Defines the impact of the bug on user experience or product functionality:
 
-Repro or reproduction is step-by-step instructions a developer can take to reproduce or recreate the behavior classified as a bug. 
+1. **Critical**: Renders the product unusable or causes major malfunctions.
+2. **Major**: Significant impact but with potential workarounds.
+3. **Minor**: Annoying issues that do not significantly impede normal operation.
 
-The Repro should be described in discrete steps, showing a developer how to execute enough to reproduce the errant behavior. It should then describe why the observed behavior is errant.
+## Priority Setting
+- **Determined in Triage**: Prioritization is essential for effective bug resolution order.
+- **Categories**: Ranging from high urgency (priority 1) to lower urgency (priority 2, 3, etc.).
 
-## Severity
+## Triage Process
+Triage is a crucial stage where bugs and requests are evaluated and actioned:
 
-Severity is the impact this bug has on the product or customer experience as a whole, severities are as follows:
+- **Actions**: Include Investigate, Approve, Reject, or Defer.
+- **Resolver Assignment**: Allocates a team member to address the approved issues.
+- **Review and Feedback Loop**: Ensures continual assessment and action on bugs.
 
-1. Cannot use the product. This bug breaks the product or feature
-2. Difficult to use the product. This bug makes it unintuitive or difficult to use the product and requires a work around.
-3. Annoying, but does not stop a workflow.
+## Post-Triage Actions
+Once a bug is resolved, validation and regression testing are key:
 
-*the severity is commonly chosen by the bug originator*
+- **Validation**: The originator verifies the resolution of the issue.
+- **Regression Testing**: Development of tests to prevent recurrence of the same issue.
 
-## Priority
-
-The Priority is how important the development team consider this bug to be and in which order it will be addressed. Development staff are encouraged to resolve priority 1 items first, followed by 2 and so on.
-
-Priority is set in Triage.
-
-## Triage
-Triage is the process of analysing requests to the project team and managing them in a highly efficient manner. In short, anyone can raise a request or issue for the team and it is the triage team which uses the triage process to manage and process the request. 
- 
-During a short meeting the team agrees one of the following actions on a request. 
- 
-- **Investigate** - the request will be investigated further
--  **Approve** - the request will be done by the team. An approved request is always assigned to a **resolver**.
--  **Reject** - the request will be denied. This is normally done if the issue cannot be reproduced (called no repro) or it is designed to work that way and is not a bug (by design). 
--  **Defer** - the request will be deferred. Triage have the power to defer (punt) a bug report to a future version of the software, especially if that report has low priority and/or severity.
-  
-Once the bug has been assigned, a **resolver** will attempt to 1resolve the bug. Once they believe they have resolved the bug, they makr the bug report as **resolved** and re-assign it to the **originator**
-
-The **resolver** or **originator** both have the ability to revert the bug for discussion at triage. Commonly this is performed by unassigning the bug, however it can be done by adding a label called Triage.
-
-
-Once the bug has been resolved, the **originator** is responsible for ensuring the bug has been fixed. They do this by:
-
-- **Validate** the originator ensures that the bug is no longer present
-- **Regression Test** - it is best practice for the test team or originator to develop a regression test to ensure this issue never occurs again.
-
-Once ths bug is resolved, it is marked as closed.
+## Closing the Loop
+After successful validation and regression testing, the bug is marked as closed, indicating a complete resolution. This comprehensive approach to Testing and Quality Assurance in the Released Method ensures that software products are robust, reliable, and meet the highest standards of quality.

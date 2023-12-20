@@ -1,27 +1,33 @@
 [Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
+
 # Documentation
-Many items in a project need to be documented and documentation is key to a successful project. Documentation items are developed according to the phases of the project. They serve different purposes but together deliver the key public requirements of any software company.
+Effective documentation is pivotal to the success of any project, especially in software development. It encompasses various elements, each aligning with different project phases, and collectively they ensure the project meets its objectives and is accessible to its intended audience.
 
 ## 1. Envisioning
-Envisioning is defined as *the process of simplifying complex goals into a single statement or statements that can be learned and repeated by the entire team* - It's important to have a goal, and product teams are no different. People rise to lofty ideals and goals and the early stages of a project is where you envision what will be with your software and solution. Examples of good envisioning statements are:
+Envisioning is the process of distilling complex goals into clear, concise statements. These statements should be memorable and repeatable, serving as guiding principles for the entire team. Effective envisioning statements set forth the purpose and anticipated impact of the product. For example:
 
-> xxx product will help anyone move across borders by being a secure, verifiable COVID-19 Vaccine passport
+> "Our product will enable seamless international travel by providing a secure, verifiable COVID-19 Vaccine passport."
 
-> yyy product will help accountants save money and delight their clients by streamlining the creation, storage and retrieval of documents
+> "Our platform will empower accountants to save costs and enhance client satisfaction through efficient document management."
 
-Poor envisioning statements are overly large, wordy or difficult to get behind. In both the statements above, the products' vision statements include their benefit to people, and this is again the key to a good statement.
-
+Effective statements are concise, clear, and motivational, encapsulating the benefit to the end-user.
 
 ## 2. Architectural
-While the parable of building a house on sand rings true in physical architecture, the same is true in software design. Every product needs a strong and robust architecture and set of guiding principles.
+Like in physical construction, the foundation of software is its architecture. This involves establishing robust design principles and architectural guidelines that ensure the software is scalable, maintainable, and secure. This phase involves making critical decisions on technology stacks, design patterns, and system integrations.
 
 ## 3. Developer
-A Development team need to understand how to develop to this product, how you manage source control repros, how you perform and approve pull requests and how automated builds work. 
+Developer documentation is crucial for both internal and external developers. It should include guidelines on coding standards, source control management, pull request procedures, and automated build processes. This ensures consistency in development practices and eases the onboarding process for new team members.
 
 ## 4. SDK
-A Software Development Kit (SDK) should be developed to assist external developers use your software.
+Developing a Software Development Kit (SDK) is essential for facilitating external developers in integrating and building upon your software. The SDK should include comprehensive APIs, libraries, code samples, and clear documentation.
 
+## 5. Implementation
+Implementation documentation covers the practical aspects of deploying the software. This includes step-by-step guides for installation, configuration, and troubleshooting. It's vital for ensuring smooth deployment and operation of the software in different environments.
 
-* Implementation
-* Platforms and Release Management
-* Documentation Quality Control
+## 6. Platforms and Release Management
+This aspect of documentation focuses on the platforms supported by the software and the strategies for release management. It includes versioning, update policies, compatibility information, and release notes detailing new features, fixes, and improvements.
+
+## 7. Documentation Quality Control
+Quality control for documentation ensures accuracy, clarity, and usefulness. It involves regular reviews and updates to keep the documentation relevant and reliable. This process is key to maintaining the integrity and effectiveness of all documentation produced throughout the project's lifecycle. 
+
+Incorporating these pillars of documentation into a software project not only aids in the development process but also enhances the end-user experience and supports the long-term sustainability of the product.
