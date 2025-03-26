@@ -2,51 +2,81 @@
 
 # Team Model
 
-In the Released Method, the team model is foundational for a startup's success, delineating essential roles and functions necessary at various stages of growth. Inspired by insights from Angela Bee Chan of [Hackathons Australia](https://www.hackathonsaustralia.com/), this model outlines the minimum viable team structure and the additional roles required as the startup matures and scales.
+The **Released Method** recognises that startups live or die by the strength of their teams. This team model maps out the essential roles needed at each stage of growth — from day-one hustle through to scale.
 
-## Minimum Viable Team
-### Hustler
-- **Role**: Often the CEO or business leader.
-- **Responsibilities**: Drives the overall vision, business strategy, marketing, sales, financial planning, and revenue generation.
+Inspired by insights from Angela Bee Chan of [Hackathons Australia](https://www.hackathonsaustralia.com/), the model focuses on lean execution early, followed by smart role expansion as the product matures.
 
-### Hacker
-- **Skills**: Essential coding and technical skills to build the initial product.
-- **Expansion**: As the startup progresses, the need for a dedicated Tester becomes crucial for quality assurance.
+---
 
-### Hipster
-- **Design Expertise**: Responsible for user interface and experience design, branding, website development, and visual communication.
+## 🧪 Minimum Viable Team
 
-## Release Team
-To transition from prototype to market-ready product, additional roles are vital:
+Your startup doesn’t need a 30-person team on day one — but it does need coverage across **business, tech, and design**. That’s where the classic trio comes in:
 
-### Accountant
-- **Value**: Manages financial operations including accounting, invoicing, and billing systems.
-- **Importance**: Crucial for financial health and compliance.
+### 🧠 Hustler  
+- **Who**: The founder, CEO, or commercial lead  
+- **Drives**: Vision, business strategy, customer acquisition, sales, marketing, revenue, and funding  
+- **Why it matters**: No one buys unless someone sells.
 
-### Lawyer
-- **Legal Guidance**: Provides essential legal support, drafting terms, NDAs, privacy policies, and contracts.
+### 💻 Hacker  
+- **Who**: The technical co-founder or first engineer  
+- **Builds**: The first version of the product  
+- **Expansion**: Eventually joined by testers or automation engineers as technical complexity grows  
 
-### Tester
-- **Quality Assurance**: Focuses on identifying and reducing bugs in the software.
-- **Evolution**: In advanced stages, can contribute to automated testing and release processes.
+### 🎨 Hipster  
+- **Who**: The designer or frontend lead  
+- **Owns**: UI/UX, branding, website, and visual storytelling  
+- **Impact**: Turns your product into something people *want* to use, not just *can* use  
 
-## Scale Team
-As the startup enters the market and begins to grow, the team needs to expand to support scaling:
+This trio forms your initial launch team. Without them, you’ll be building blind.
 
-### Support Team
-- **Customer Interaction**: Addresses customer inquiries and troubleshoots issues, enhancing customer satisfaction and loyalty.
+---
 
-### Developers
-- **Expanded Development**: Takes on the development of new features, maintenance, and ongoing improvements to the software.
+## 🚀 Release-Ready Team
 
-### Designers
-- **Creative Expansion**: Continues to enhance the visual and user experience aspects of the product.
+Once you're past MVP and aiming for market, you need to strengthen operational and legal foundations:
 
-### Testers
-- **Ongoing Quality Assurance**: Persistently works towards identifying and solving bugs, ensuring the product's reliability.
+### 💰 Accountant  
+- **Handles**: Bookkeeping, invoicing, tax compliance, financial reporting  
+- **Why now**: You’re starting to generate revenue — time to track every dollar.
 
-### Administrative Roles
-- **Operational Support**: Includes roles in accounting, sales, HR, and administration, crucial for a growing organization.
-- **Timing**: These roles become necessary as the startup achieves profitability and operational complexity increases.
+### ⚖️ Lawyer  
+- **Advises on**: Contracts, IP, privacy, NDAs, compliance  
+- **Protects**: Your business and your product from early legal landmines
 
-By adhering to this team model, a startup can effectively navigate through different phases of its lifecycle, from inception and prototyping to market release and eventual scaling. The right team composition at each stage is essential for balancing innovation, technical excellence, business acumen, and operational efficiency.
+### 🧪 Tester  
+- **Focuses on**: Manual and exploratory testing  
+- **Adds value**: Catches issues before your customers do  
+- **Next stage**: Can grow into automated QA and CI/CD pipeline integration
+
+---
+
+## 📈 Scale-Up Team
+
+As your user base grows, so does your team. You’ll need to invest in specialised roles to support scale and stability:
+
+### 🎧 Support Team  
+- **Frontline**: Handles customer queries, bug reports, and onboarding  
+- **Retention booster**: Happy users stick around and spread the word
+
+### 👨‍💻 Developers  
+- **Expand capacity**: Build new features, squash bugs, and maintain the codebase  
+- **Essential for**: Keeping up with demand and scaling architecture
+
+### 🖌️ Designers  
+- **Evolve the experience**: Iterate on UI/UX, brand, and communication  
+- **Critical for**: Differentiation and usability
+
+### 🧪 Testers  
+- **Go deep**: Expand coverage, build automated test suites, stress test edge cases  
+- **Part of**: A mature, sustainable release cycle
+
+### 🧾 Administrative Roles  
+- **Includes**: HR, finance, legal ops, sales ops, and executive assistants  
+- **When to add**: Post-product-market fit, when complexity starts to bite  
+- **Why**: Free up your core team to focus on growth, not admin
+
+---
+
+## Final Word
+
+Startups don’t scale by accident — they scale by evolving the team at the right pace. The Released Method team model helps you build lean, grow strategically, and ensure that every function — from code to customer — is covered.

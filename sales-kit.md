@@ -1,36 +1,94 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
 
 # Selling
-The Selling pillar of the Released Method focuses on developing key materials and strategies to effectively market and sell the software product. This involves creating a comprehensive suite of sales tools designed to address different aspects of the sales process, from presentations to competitive analysis. 
 
-## Key Deliverables for Sales Process
+The **Selling** pillar of the Released Method equips your team to effectively position, promote, and sell your software. It’s not just about flashy presentations — it’s about having the right tools and messaging to engage decision-makers, overcome objections, and close deals.
 
-### Sales Presentations
-[Sales Presentations](saleskit/sales-presentations.md) are essential tools for communicating the value proposition of the product to potential customers. Different lengths and depths are prepared to cater to various scenarios:
-  * **1 Slide**: A concise overview of the product, ideal for quick pitches.
-  * **3 Slide**: A brief presentation highlighting key features and benefits.
-  * **15 Slide**: A more detailed presentation, suitable for initial meetings with potential clients.
-  * **30 Slide**: An in-depth presentation covering all aspects of the product, designed for detailed discussions.
+This pillar focuses on building a complete, repeatable sales kit that can scale with your business and adapt to different stages of the sales funnel.
 
-### Proposal Template
-[Proposal Template](saleskit/proposal-template.md) provides a standardized format for sales staff to present the solution to prospects, ensuring consistency and professionalism in sales proposals.
+---
 
-### Brochure
-[Brochure](saleskit/brochure.md) serves as a customer-facing document that offers an engaging summary of the product, its benefits, and uses.
+## 🔑 Key Deliverables for the Sales Process
 
-### DataSheet
-[DataSheet](saleskit/datasheet.md) is a technical document that provides an in-depth view of the product's features, benefits, and specifications, catering to more technically-oriented clients.
+Each of the following components plays a role in moving prospects from curiosity to commitment.
 
-### Sales Battlecard
-[Sales Battlecard](saleskit/sales-battlecard.md) is a quick-reference tool for sales and marketing personnel. It includes key talking points, product strengths, and unique selling propositions to effectively position the solution during discussions.
+---
 
-### Competitive Analysis
-[Competitive Analysis](saleskit/competitive-analysis.md) compares the product with its competitors, highlighting advantages and unique features to help the sales team position the product effectively in the market.
+### 📊 [Sales Presentations](saleskit/sales-presentations.md)
 
-### Pricing Matrix
-[Pricing Matrix](saleskit/pricing-matrix.md) outlines the different pricing options for the solution, providing clear and flexible pricing structures for various customer needs.
+These are your front-line tools for storytelling. Different versions are tailored for different audiences and scenarios:
 
-### Web Site
-[Web Site](saleskit/web-site.md) is a dedicated microsite or section of the company’s main website that provides comprehensive information about the product, including features, benefits, testimonials, and contact information.
+- **1-Slide Pitch** – Sharp, bold, and fast. Ideal for elevator pitches or intro calls.  
+- **3-Slide Deck** – A quick but compelling overview for early-stage interest.  
+- **15-Slide Presentation** – Covers features, benefits, and use cases in detail — great for discovery sessions.  
+- **30-Slide Deep Dive** – Comprehensive product walkthrough for serious buyers or technical audiences.
 
-These deliverables form the backbone of the Selling pillar, ensuring that the sales team is equipped with all necessary resources to effectively communicate the value of the software to prospects and customers. By carefully crafting each component, the Released Method enhances the likelihood of successful market penetration and sales growth.
+---
+
+### 📝 [Proposal Template](saleskit/proposal-template.md)
+
+A standardised, professional format for presenting pricing, scope, and timelines. This keeps your proposals consistent, branded, and easy for prospects to digest and compare.
+
+---
+
+### 📄 [Brochure](saleskit/brochure.md)
+
+Customer-facing marketing collateral that tells your product’s story — visually rich, benefits-focused, and easy to hand over at events, meetings, or digitally.
+
+---
+
+### 🧾 [DataSheet](saleskit/datasheet.md)
+
+Technical buyers care about the details. The datasheet lays out features, specs, integrations, and system requirements — all in a format that builds trust and confidence.
+
+---
+
+### 🥊 [Sales Battlecard](saleskit/sales-battlecard.md)
+
+A quick-hit reference guide for the sales team. Includes:
+
+- Key talking points  
+- Objection handling tips  
+- Unique selling propositions  
+- Competitive angles  
+
+Helps reps stay sharp and focused in live conversations.
+
+---
+
+### 🆚 [Competitive Analysis](saleskit/competitive-analysis.md)
+
+A structured comparison between your product and its key competitors. Highlights your strengths and key differentiators — helping the sales team position your solution confidently and tactically.
+
+---
+
+### 💰 [Pricing Matrix](saleskit/pricing-matrix.md)
+
+Transparent, scalable pricing options. This tool lays out tiers, features, and licensing models clearly, so prospects can quickly see where they fit — and what value they’re getting.
+
+---
+
+### 🌐 [Web Site](saleskit/web-site.md)
+
+A product-focused microsite or dedicated section of your main site. It includes:
+
+- Product overview  
+- Customer success stories  
+- Demo requests or trials  
+- Feature lists and FAQs  
+- Clear CTAs for conversion  
+
+Your website is often your first salesperson — make it count.
+
+---
+
+## Why It Matters
+
+Sales enablement isn’t optional — it’s what turns great products into successful businesses. The Selling pillar ensures your team isn’t improvising on calls or chasing down one-off assets. Everything’s packaged, polished, and ready to use.
+
+Done well, this leads to:
+
+- Faster sales cycles  
+- Higher conversion rates  
+- Better-qualified leads  
+- Stronger market positioning
