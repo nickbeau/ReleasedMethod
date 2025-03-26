@@ -1,35 +1,104 @@
 [Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md) | [Corporate Setup](corporate-setup.md)
 
 # Corporate Setup
-Establishing a corporate presence is a critical step in launching your business. This checklist outlines the essential tasks for setting up a single company, whether an LLC or PTY, which will engage in trading and hold all intellectual property. It is crucial to *seek professional advice* before proceeding, as the following steps are general in nature and may not encompass all specific needs.
 
-## Checklist
-* [ ] **Choose a Company Name**: Select a unique and appropriate name for your company.
-* [ ] **Register Your New Company**: Complete the legal formalities to officially form your company.
-* [ ] **Open Bank Accounts**: Set up business banking accounts for financial transactions.
-* [ ] **Register for Tax**: Ensure compliance with local tax regulations by registering your business.
-* [ ] **Purchase and Implement Cloud Accounting Software**: Acquire accounting software for financial tracking and management.
-* [ ] **Obtain a Domain Name**: Register a domain name that aligns with your company name.
-* [ ] **Create a Website**: Develop a professional website detailing your company's information and offerings.
-* [ ] **Create Email Addresses and Acquire a Cloud Commercial Email Platform**: Set up professional email accounts for your team.
-* [ ] **Create a GitHub Repo**: Establish a repository for your software projects and code.
-* [ ] **Create Required Cloud Accounts**: Set up necessary accounts for cloud services relevant to your business.
-* [ ] **Decide Office Location**: Choose a physical location for your office, if necessary.
-* [ ] **Create Basic Sales Kit**: Develop materials for your sales team, including brochures, presentations, and price lists.
-* [ ] **Create Product Roadmap**: Outline the development timeline and milestones for your product(s).
-* [ ] **Start Build**: Begin the development and building process of your product or service.
-* [ ] **Start Selling**: Initiate marketing and sales efforts to promote and sell your product or service.
+Getting your company structure right from the beginning avoids a mountain of legal, financial, and operational headaches later. This checklist assumes you’re setting up a single legal entity (LLC or Pty Ltd) to trade and hold IP.
 
-## Extended Steps
-* [ ] **Develop Branding and Marketing Strategies**: Create a strong brand identity and marketing plan to effectively reach your target audience.
-* [ ] **Secure Business Insurance**: Obtain the necessary insurance to protect your company from various risks.
-* [ ] **Implement Customer Relationship Management (CRM) System**: Set up a CRM system to manage customer interactions and data.
-* [ ] **Hire Key Personnel**: Recruit essential staff for various roles in your organization.
-* [ ] **Establish Company Policies and Procedures**: Develop clear policies and procedures to guide your team's operations.
-* [ ] **Conduct Market Research**: Understand your industry, competitors, and customer needs through thorough research.
-* [ ] **Develop a Financial Plan**: Create a detailed financial plan, including budgeting, forecasting, and funding strategies.
-* [ ] **Establish Partnerships and Alliances**: Form strategic partnerships to enhance your business capabilities and reach.
-* [ ] **Plan for Scalability**: Prepare strategies for scaling your business operations as you grow.
-* [ ] **Set Up IT Infrastructure**: Ensure robust IT systems and networks are in place for efficient operations.
-* [ ] **Compliance and Legal Checks**: Regularly review and adhere to legal and compliance requirements relevant to your business.
-* [ ] **Engage in Continuous Learning and Development**: Invest in the ongoing learning and development of your team to keep skills sharp and up to date.
+> 💡 **Warning:** This isn’t legal advice. Talk to an accountant and a lawyer. Shortcuts now will cost you down the track.
+
+---
+
+## Core Setup Checklist
+
+* [ ] **Choose a Company Name**  
+  Make it unique, available, and not embarrassing when said out loud.
+
+* [ ] **Register the Company**  
+  Use a professional service or your accountant to set it up properly — this isn’t the time to DIY.
+
+* [ ] **Apply for ABN / ACN (or local equivalent)**  
+  Essential for operating legally and getting paid.
+
+* [ ] **Register for Tax (GST, PAYG, etc.)**  
+  Don’t mess around here — get this sorted early.
+
+* [ ] **Open a Business Bank Account**  
+  Never mix personal and business funds. Ever.
+
+* [ ] **Buy a Domain Name**  
+  Lock in your .com / .com.au and any variations that matter.
+
+* [ ] **Set Up Professional Email**  
+  Use Google Workspace or Microsoft 365 — free Gmail is for amateurs.
+
+* [ ] **Get Cloud Accounting Software**  
+  Xero, QuickBooks or similar. Your accountant should have a preference — go with that.
+
+* [ ] **Create a GitHub (or GitLab) Organisation**  
+  Don’t wait until your code is all over the place.
+
+* [ ] **Set Up Core Cloud Accounts**  
+  AWS, Azure, GCP — whatever you’re building on. Do it under the company, not your personal email.
+
+* [ ] **Create a Basic Website / Landing Page**  
+  Doesn't have to be fancy — just a place to show you’re real.
+
+* [ ] **Decide on a Physical Office Setup (if any)**  
+  Remote-first? Co-working? Hybrid? Figure it out and budget accordingly.
+
+* [ ] **Create a Starter Sales Kit**  
+  One-pager, pitch deck, intro email template, and pricing doc — keep it lean but sharp.
+
+* [ ] **Write a Product Roadmap**  
+  Doesn’t need to be a novel — just know what you’re building and why.
+
+* [ ] **Start Building**  
+  Code, mockups, MVP — whatever "build" means for you, get on with it.
+
+* [ ] **Start Selling**  
+  Don’t wait for perfection. Get your thing in front of real customers ASAP.
+
+---
+
+## Extended Setup
+
+These aren’t "optional" — they just might not be day-one tasks.
+
+* [ ] **Branding and Positioning**  
+  Logo, colour palette, tone of voice — get consistent, not cute.
+
+* [ ] **Marketing Strategy**  
+  Who are you targeting? How are you reaching them? What’s the message?
+
+* [ ] **Business Insurance**  
+  Public liability, professional indemnity, cyber — get a broker to help.
+
+* [ ] **CRM System**  
+  Even a simple HubSpot or Notion setup is better than spreadsheets.
+
+* [ ] **Hire Foundational Team Members**  
+  Don’t hire too early. But when you do, make sure they're mission-fit.
+
+* [ ] **Internal Policies and Procedures**  
+  Keep it lightweight, but write down how things work as they scale.
+
+* [ ] **Market Research and Validation**  
+  Talk to real users. Validate before you overbuild.
+
+* [ ] **Financial Model**  
+  Build a forecast, set milestones, know your runway.
+
+* [ ] **Partnerships and Alliances**  
+  Look for leverage — don’t try to do everything solo.
+
+* [ ] **Scalability Planning**  
+  Think ahead: people, tech, systems. Avoid rebuilds mid-growth.
+
+* [ ] **IT Infrastructure and Security**  
+  Use single sign-on, 2FA, password managers — basic hygiene.
+
+* [ ] **Compliance and Legal**  
+  IP agreements, NDAs, terms of service, privacy policy — no excuses here.
+
+* [ ] **Learning and Development**  
+  Build a culture of growth early. It’ll pay off.

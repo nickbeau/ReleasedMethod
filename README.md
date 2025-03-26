@@ -1,54 +1,78 @@
+
 # Released Method
 
-*The Released Method is a framework for overseeing the development of extensive software projects, aiming to deliver solutions promptly, within budget, and maintaining high quality.*
+*The Released Method is a pragmatic, battle-tested framework for managing large-scale software projects. It’s designed to deliver results — on time, on budget, and with uncompromising quality.*
+
+---
 
 ## Contents
-* ### [Introduction](introduction.md) - Overview of the Method and its origins
-* ### [Pillars](pillars.md) - Fundamental areas of the method
-* ### [Systems](systems.md) - Essential systems utilised
-* ### [Why?](why.md) - The rationale behind the model
-* ### [Team](team-model.md) - The team structure
+
+- [Introduction](introduction.md) – Overview and origins of the Released Method  
+- [Pillars](pillars.md) – Core principles that guide the process  
+- [Systems](systems.md) – Key systems used to support delivery  
+- [Why?](why.md) – The rationale behind the method  
+- [Team](team-model.md) – Team structure and roles
+
+---
 
 ## About the Method
-Developed by Nick Beaugeard, with 20 years of leadership in software development teams, the Released Method is the culmination of his experience as a software architect and startup founder. His history includes:
 
-* Launch of Microsoft SMS Installer with ISU (2000)
-* Launch of Bellerephon Desktop Deployment Service (2003)
-* Launch of Dimension Data Dynamic Desktop Deployment (2005)
-  * Secured [3 Microsoft Partner Awards](https://www.computerworld.com.au/article/162101/dimension_data_awarded_three_microsoft_global_partner_awards_2006/)
-* Launch of Dimension Data SLAM (2007)
-* Launch of Community Engine (2008)
-* Launch of HubOne Modern Practice (2010)
-  * ARN Software Developer of the Year Award
-  * AFR Top 100 Companies to Watch
-  * RedHerring 2011 Award
-* Launch of HubOne Engine (2012)
-* Launch of WorkflowMax PowerShell Library (2013)
-* Launch of Scanned Document Manager (2014)
-* Launch of H&R Block Training Portal (2015)
-* Launch of Invicta Special Forces Management Tools (2016)
-* Launch of CA Kairos (2017)
-  * ARN Software Developer of the Year Award
-* Launch of CCH iFirm Document Manager (2018)
-  * Runner Up - ARN Software Developer of the Year Award
-* Launch of Unblocked Platform (2019)
-* Launch of World of Workflows (2023)
-  * Highly Commended - ARN Software Developer of the Year Award
+The Released Method was created by **Nick Beaugeard**, drawing on two decades of experience leading high-performing software teams. As a software architect and founder, Nick has consistently delivered innovative products across enterprise, government, and startup sectors.
 
-## Business Case
-Utilising a proven, structured methodology, honed across numerous product cycles, ensures the application of lessons learned from developing millions of lines of tested code, preventing repeated learning for new projects.
+### Key Milestones:
 
-This approach leads to a project that:
-* Achieves its Goals
-* Cuts Costs
-* Enhances Quality
-* Minimises Risk
-* Boosts Team Rhythm
-* Improves Transparency
-* Yields Commercial-Quality Outputs
+- 🚀 *Microsoft SMS Installer with ISU* (2000)  
+- 🧠 *Bellerephon Desktop Deployment Service* (2003)  
+- 🏆 *Dimension Data Dynamic Desktop Deployment* (2005)  
+  - [Three Microsoft Global Partner Awards](https://www.computerworld.com.au/article/162101/dimension_data_awarded_three_microsoft_global_partner_awards_2006/)  
+- 🔁 *SLAM – Software Lifecycle Automation Manager* (2007)  
+- 🌐 *Community Engine* (2008)  
+- 💼 *HubOne Modern Practice* (2010)  
+  - ARN Software Developer of the Year  
+  - AFR Top 100 Companies to Watch  
+  - Red Herring 2011 Award  
+- ⚙️ *HubOne Engine* (2012)  
+- 🛠️ *WorkflowMax PowerShell Library* (2013)  
+- 📥 *Scanned Document Manager* (2014)  
+- 🎓 *H&R Block Training Portal* (2015)  
+- 🥷 *Invicta Special Forces Management Tools* (2016)  
+- 🔍 *CA Kairos* (2017)  
+  - ARN Software Developer of the Year  
+- 📁 *CCH iFirm Document Manager* (2018)  
+  - Runner-Up – ARN Software Developer of the Year  
+- 🔗 *Unblocked Platform* (2019)  
+- 🌍 *World of Workflows* (2023)  
+  - Highly Commended – ARN Software Developer of the Year
 
-## Measure Yourself
-To gauge your progress, visit the [Startup Checklist](startup-checklist.md).
-  
+---
+
+## The Business Case
+
+The Released Method applies structured, repeatable processes proven across dozens of product cycles and millions of lines of production code. It’s built to eliminate rework, cut through ambiguity, and get products to market faster — with less risk and more impact.
+
+### The Method Delivers:
+
+- 🎯 **Goal Alignment** – Stay focused on what matters  
+- 💸 **Cost Reduction** – Avoid waste and rework  
+- ✅ **Higher Quality** – Baked-in testing and QA from the start  
+- ⚠️ **Risk Mitigation** – Spot and solve issues early  
+- 🔁 **Stronger Team Rhythm** – Clear roles, steady cadence  
+- 👀 **Greater Transparency** – Track progress with confidence  
+- 🚢 **Commercial-Ready Output** – Not just code — real, shippable software
+
+---
+
+## Measure Your Progress
+
+Wondering where you stand? Start with the [Startup Checklist](startup-checklist.md) to benchmark your team’s maturity.
+
+---
+
 ## Join the Journey
-To contribute to the growth of the Released Method, start by reading the [Code of Conduct](CODE_OF_CONDUCT.md), then proceed to the [Contributing Guidelines](CONTRIBUTING.md).
+
+Want to contribute to the evolution of the Released Method?
+
+Start here:
+
+1. Read the [Code of Conduct](CODE_OF_CONDUCT.md)  
+2. Review the [Contributing Guidelines](CONTRIBUTING.md)

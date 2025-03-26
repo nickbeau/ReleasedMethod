@@ -2,46 +2,101 @@
 
 # Release Management
 
-Release Management is a critical component of the Released Method, encompassing various processes and checks to ensure that each software release is robust, reliable, and meets quality standards. This pillar includes key elements such as Quality Bar, Automated Release Process, Staging and Production Platforms, Release Authorization, and Version Control.
+**Release Management** is a critical pillar of the Released Method. It ensures every software release is reliable, production-ready, and aligned with quality expectations — without dragging delivery timelines or relying on luck. This pillar covers five core areas:
+
+- **Quality Bar**  
+- **Automated Release Process**  
+- **Staging and Production Environments**  
+- **Release Authorization**  
+- **Version Control**
+
+---
 
 ## Quality Bar
-The Quality Bar defines the criteria for determining when a product or release is ready for deployment. It balances the need for perfection with the practicality of meeting release deadlines. The Quality Bar is essential for guiding teams on when the software is sufficiently refined and tested to be considered "shippable". This criterion varies but typically includes measures like:
 
-- Number of outstanding tasks.
-- Number of outstanding bugs.
-- Proportion of tasks tested.
-- Proportion of tasks documented.
+The **Quality Bar** defines what “ready to release” actually means. It provides a clear, objective threshold for when software is stable enough to ship — balancing quality with time-to-market.
 
-Each task in a user story or feature undergoes various states from New (Unassigned) to Closed, ensuring comprehensive development, testing, and documentation.
+Your bar should be high, but realistic. Typical criteria include:
 
-### Task Phases
-- **New**: The task is proposed and awaiting approval.
-- **In Development**: Once assigned, the developer iterates until the task reaches code completion.
-- **In Test**: The task undergoes thorough testing. Bugs are identified and logged. Testing metrics, such as code coverage, are considered (see [Testing & QA](testing-qa.md)).
-- **In Documentation**: Post-testing, the task moves to documentation, where its usage and functionalities are detailed. Documentation itself is tested for completeness and accuracy.
-- **Closed**: The task is deemed complete, with ongoing bug resolution.
+- Remaining open tasks  
+- Open bug count and severity  
+- Percentage of features tested  
+- Percentage of features documented  
+
+Each feature/task progresses through tracked phases to ensure nothing is missed.
+
+### Task Lifecycle
+
+- **New** – Proposed and awaiting triage or assignment  
+- **In Development** – Actively being built; iterated until code complete  
+- **In Test** – Undergoes validation, regression, and coverage checks (see [Testing & QA](testing-qa.md))  
+- **In Documentation** – Features documented and docs tested for clarity and completeness  
+- **Closed** – Task fully delivered; ongoing bug fixes tracked separately  
 
 ### Quality Bar Metrics
-1. **All Tasks Closed**: Signifies the end of active development for the release.
-2. **No Open Bugs**: Indicates that no critical bugs are pending for the current release.
-3. **Punting**: Deciding to move a task to a subsequent release based on its severity and priority.
 
-### Released Method Quality Bar
-In the Released Method, the quality bar is defined by:
-1. Completion of all tasks.
-2. Absence of open Sev 1, Pri 1 Bugs.
-3. Consensus from the Triage Team for release.
+- ✅ **All tasks closed** – No active development pending  
+- 🐞 **No open Sev 1 / Pri 1 bugs** – Showstoppers are resolved or blocked  
+- 🚩 **Punting** – Deliberate deferral of tasks that no longer meet release scope or timing  
+- 👥 **Triage Team sign-off** – Final approval from the cross-functional release authority
+
+This gives you a shared, unambiguous definition of “done” at release scale.
+
+---
 
 ## Automated Release Process
-Implementing an automated release process streamlines deployment, reducing human error and enhancing efficiency. This involves automated builds, testing, and deployment scripts, ensuring consistent and reliable release cycles.
 
-## Staging and Production Platforms
-Separating staging and production environments is crucial for safe testing and deployment. Staging environments replicate production settings for final testing, while production environments host the live, user-facing application.
+Manual deployments are slow, error-prone, and unsustainable. The Released Method mandates **automation by default** — from build to release.
+
+Automation should include:
+
+- Build pipelines (CI/CD)  
+- Automated tests (unit, integration, regression)  
+- Packaging and deployment scripts  
+- Environment validation checks  
+
+Your goal is repeatable, reliable, hands-off releases.
+
+---
+
+## Staging and Production Environments
+
+You ship with confidence when your testing environment mirrors the real world. That’s why the Released Method separates:
+
+- **Staging** – Mirrors production as closely as possible; used for final validation  
+- **Production** – The live, customer-facing environment
+
+Staging is not optional. It’s your last safety net.
+
+---
 
 ## Release Authorization
-Release authorization is a collaborative decision-making process, often involving a Triage Team. Any member can veto a release to address significant concerns, ensuring thorough review and consensus before deployment.
+
+Shipping software is a team sport. **Release authorization** is a structured process led by the Triage Team, which includes engineering, QA, product, and sometimes support or marketing.
+
+- Any member can veto a release based on serious concerns  
+- Final go/no-go is based on agreed Quality Bar metrics  
+- Releasing is a decision — not a default
+
+This ensures accountability without bureaucracy.
+
+---
 
 ## Version Control
-Effective version control is indispensable for managing changes in software development. It tracks modifications, supports concurrent work, and facilitates collaboration, ensuring a coherent and organized development process.
 
-The Release Management pillar is fundamental in ensuring that each software version is released with confidence, meeting the high standards of quality and reliability that are hallmarks of the Released Method.
+Version control underpins all of this. It’s more than just source history — it’s the foundation for traceability, rollback, and collaboration.
+
+Your version control strategy should:
+
+- Support parallel development (branching model)  
+- Tie changes to tasks and bugs (issue tracking integration)  
+- Maintain clean release tags and history  
+- Be accessible to all team members, including QA and support
+
+Git is the standard. Use it well.
+
+---
+
+## Final Word
+
+Release Management isn’t just a checkpoint at the end — it’s a continuous discipline. The Released Method bakes it in from day one to ensure every build is production-worthy, every release is predictable, and your customers never get a “rough edge” build again.
