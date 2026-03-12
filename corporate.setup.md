@@ -1,3 +1,6 @@
+---
+---
+
 # Corporate Setup
 
 Getting your company structure right from the beginning avoids a mountain of legal, financial, and operational headaches later. This checklist assumes you’re setting up a single legal entity (LLC or Pty Ltd) to trade and hold IP.

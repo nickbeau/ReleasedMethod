@@ -1,3 +1,6 @@
+---
+---
+
 # Proposal Template
 > Customer Ready Document
 

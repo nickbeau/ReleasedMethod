@@ -1,3 +1,6 @@
+---
+---
+
 # Why Choose the Released Method?
 
 In a world full of software development methodologies, most frameworks either aim for broad applicability or lean heavily on dogma. The **Released Method** is different. It’s purpose-built for startups, skunkworks teams, and innovation-led environments that demand speed, adaptability, and quality without the bloat.

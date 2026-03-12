@@ -1,3 +1,6 @@
+---
+---
+
 # Testing and Quality Assurance
 
 In the Released Method, **Testing and Quality Assurance (QA)** are not afterthoughts — they’re embedded into the development process from day one. This pillar ensures your software is reliable, robust, and ready for real-world use, with a disciplined, layered approach to testing and a streamlined system for managing bugs.

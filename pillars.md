@@ -1,3 +1,6 @@
+---
+---
+
 # Pillars of the Released Process
 
 The **Released Process** is built on six core pillars that support the full lifecycle of software delivery — from initial planning through to commercial success. Each pillar addresses a critical dimension of what it takes to deliver great software at scale: strategy, execution, quality, release, clarity, and customer reach.

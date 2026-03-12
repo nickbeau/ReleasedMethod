@@ -1,3 +1,6 @@
+---
+---
+
 # Systems
 
 In the Released Method, **systems are not just tools — they’re enablers**. They underpin everything from collaboration and tracking to automation and deployment. The right systems, implemented well, remove friction, reduce risk, and supercharge productivity.

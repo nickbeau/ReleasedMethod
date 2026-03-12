@@ -1,3 +1,6 @@
+---
+---
+
 # Software Planning and Development
 
 The **Software Planning and Development** pillar is the engine room of the Released Method. It follows a structured, agile-aligned lifecycle designed to ship working software at a consistent cadence — while staying flexible enough to respond to change.

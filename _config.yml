@@ -1,6 +1,11 @@
 theme: jekyll-theme-tactile
 title: Released Method
 description: Pragmatic guidance for planning, releasing, and selling software products.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
 defaults:
   - scope:
       path: ""
@@ -8,7 +13,7 @@ defaults:
     values:
       layout: default
   - scope:
-      path: "README.md"
+      path: "index.md"
       type: pages
     values:
       nav_key: home

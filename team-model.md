@@ -1,3 +1,6 @@
+---
+---
+
 # Team Model
 
 The **Released Method** recognises that startups live or die by the strength of their teams. This team model maps out the essential roles needed at each stage of growth — from day-one hustle through to scale.

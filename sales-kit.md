@@ -1,3 +1,6 @@
+---
+---
+
 # Selling
 
 The **Selling** pillar of the Released Method equips your team to effectively position, promote, and sell your software. It’s not just about flashy presentations — it’s about having the right tools and messaging to engage decision-makers, overcome objections, and close deals.

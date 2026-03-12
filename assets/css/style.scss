@@ -28,6 +28,12 @@
   border-color: #b0000b;
 }
 
+.site-nav__link:focus-visible {
+  outline: 3px solid #303030;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.8);
+}
+
 .site-nav__link.is-active {
   background: #d5000d;
   border-color: #b0000b;

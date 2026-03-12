@@ -1,3 +1,6 @@
+---
+---
+
 # Competitive Analysis
 > Internal Document
 

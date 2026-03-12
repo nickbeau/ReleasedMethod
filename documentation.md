@@ -1,3 +1,6 @@
+---
+---
+
 # Documentation
 
 Documentation isn’t just a box-ticking exercise — it’s foundational to building, scaling, and supporting software that doesn’t fall apart under pressure. Good documentation brings clarity, reduces risk, accelerates onboarding, and improves long-term maintainability. This guide outlines the key types of documentation you should invest in at each stage of a software project.

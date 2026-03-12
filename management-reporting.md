@@ -1,3 +1,6 @@
+---
+---
+
 # Management Reporting
 
 **Management reporting** is essential for tracking progress, anticipating issues, and communicating project health to stakeholders — whether that’s internal leadership, external investors, or delivery teams. Done right, it provides not just status updates, but actionable insight.

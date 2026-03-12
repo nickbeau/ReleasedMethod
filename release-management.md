@@ -1,3 +1,6 @@
+---
+---
+
 # Release Management
 
 **Release Management** is a critical pillar of the Released Method. It ensures every software release is reliable, production-ready, and aligned with quality expectations — without dragging delivery timelines or relying on luck. This pillar covers five core areas:
@@ -27,7 +30,7 @@ Each feature/task progresses through tracked phases to ensure nothing is missed.
 
 - **New** – Proposed and awaiting triage or assignment
 - **In Development** – Actively being built; iterated until code complete
-- **In Test** – Undergoes validation, regression, and coverage checks (see [Testing & QA](testing-qa.md))
+- **In Test** – Undergoes validation, regression, and coverage checks (see [Testing & QA]({% link testing-qa.md %}))
 - **In Documentation** – Features documented and docs tested for clarity and completeness
 - **Closed** – Task fully delivered; ongoing bug fixes tracked separately
 

@@ -1,3 +1,6 @@
+---
+---
+
 # Startup Checklist
 
 This checklist is your go-to guide for launching and scaling a technology startup. It doesn’t guarantee success — nothing does — but it gives you a solid operational foundation and eliminates the most common early-stage mistakes.
