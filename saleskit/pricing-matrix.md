@@ -1,5 +1,3 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
-
 # Pricing Matrix
 
 > This is an external facing document
@@ -15,4 +13,3 @@ Pricing Matrix Templates are available [here](https://www.slideteam.net/powerpoi
 | Feature 1 | Yes | Yes | Yes |
 | Feature 2 | No | Yes | Yes |
 | Feature 3 | No | No | Yes |
-

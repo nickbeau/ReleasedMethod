@@ -1,0 +1,24 @@
+- key: home
+  label: Home
+  url: /
+- key: introduction
+  label: Introduction
+  url: /introduction.html
+- key: why
+  label: Why
+  url: /why.html
+- key: pillars
+  label: Pillars
+  url: /pillars.html
+- key: systems
+  label: Systems
+  url: /systems.html
+- key: team
+  label: Team
+  url: /team-model.html
+- key: sales-kit
+  label: Sales Kit
+  url: /sales-kit.html
+- key: resources
+  label: Resources
+  url: /usefulresources.html

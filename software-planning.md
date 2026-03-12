@@ -1,5 +1,3 @@
-[Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
-
 # Software Planning and Development
 
 The **Software Planning and Development** pillar is the engine room of the Released Method. It follows a structured, agile-aligned lifecycle designed to ship working software at a consistent cadence — while staying flexible enough to respond to change.
@@ -14,9 +12,9 @@ The Released Method adheres to the principles of the [Agile Manifesto](https://a
 
 It aims to:
 
-- Prioritise customer outcomes  
-- Embrace evolving requirements  
-- Sustain a consistent, manageable delivery pace  
+- Prioritise customer outcomes
+- Embrace evolving requirements
+- Sustain a consistent, manageable delivery pace
 - Foster tight alignment between business and development teams
 
 Agile isn’t a label here — it’s embedded in how planning, building, and delivery actually happens.
@@ -41,14 +39,14 @@ The Released Method incorporates four key phases in every sprint cycle. These ar
 
 This is where ideas are born and refined into actionable hypotheses.
 
-- **Brainstorm** – Free-thinking, collaborative idea generation  
-- **Hypothesis** – Formulate possible solutions to user problems  
-- **Wild Ideas** – Deliberately stretch beyond the obvious  
+- **Brainstorm** – Free-thinking, collaborative idea generation
+- **Hypothesis** – Formulate possible solutions to user problems
+- **Wild Ideas** – Deliberately stretch beyond the obvious
 
 💡 **Output**: A structured set of GitHub issues, split into:
-- Functional requirements  
-- Non-functional requirements  
-- Prioritised backlogs  
+- Functional requirements
+- Non-functional requirements
+- Prioritised backlogs
 
 ---
 
@@ -56,9 +54,9 @@ This is where ideas are born and refined into actionable hypotheses.
 
 Validate assumptions before committing to full-scale development.
 
-- **Build** – Rapid prototype creation  
-- **Verify** – Quick user testing and validation  
-- **Fail Fast** – Kill bad ideas early and learn quickly  
+- **Build** – Rapid prototype creation
+- **Verify** – Quick user testing and validation
+- **Fail Fast** – Kill bad ideas early and learn quickly
 
 Customer feedback is key here — the goal is real-world input, not perfection.
 
@@ -68,9 +66,9 @@ Customer feedback is key here — the goal is real-world input, not perfection.
 
 This is where ideas become product.
 
-- **Develop** – Turn validated prototypes into robust, secure features  
-- **Document** – Capture how features work and why they exist  
-- **Refine** – Improve design, performance, and structure  
+- **Develop** – Turn validated prototypes into robust, secure features
+- **Document** – Capture how features work and why they exist
+- **Refine** – Improve design, performance, and structure
 
 Architecture doesn’t mean heavyweight planning. It means thoughtful, scalable design from the ground up.
 
@@ -80,9 +78,9 @@ Architecture doesn’t mean heavyweight planning. It means thoughtful, scalable 
 
 Final phase to ensure what’s built is fit for purpose.
 
-- **Validate** – Test against specs, edge cases, and business goals  
-- **Optimize** – Improve code performance, efficiency, and clarity  
-- **Enhance** – Apply feedback to raise the quality bar  
+- **Validate** – Test against specs, edge cases, and business goals
+- **Optimize** – Improve code performance, efficiency, and clarity
+- **Enhance** – Apply feedback to raise the quality bar
 
 Every sprint should result in validated, production-ready work — not "works on my machine" builds.
 
@@ -92,16 +90,16 @@ Every sprint should result in validated, production-ready work — not "works on
 
 Each sprint incorporates **all four phases** to maintain momentum, encourage feedback loops, and support continuous improvement. This makes each sprint a mini product cycle, ensuring:
 
-- Balanced workloads  
-- Regular customer checkpoints  
-- Ongoing technical excellence  
-- No dead sprints or pointless refactoring loops  
+- Balanced workloads
+- Regular customer checkpoints
+- Ongoing technical excellence
+- No dead sprints or pointless refactoring loops
 
 Key ceremonies include:
 
-- **Sprint Planning** – What are we solving, and how?  
-- **Stand-ups** – Daily alignment and block removal  
-- **Reviews/Demos** – Show, don’t tell — real work, real value  
+- **Sprint Planning** – What are we solving, and how?
+- **Stand-ups** – Daily alignment and block removal
+- **Reviews/Demos** – Show, don’t tell — real work, real value
 - **Retrospectives** – Improve the process, not just the product
 
 ---

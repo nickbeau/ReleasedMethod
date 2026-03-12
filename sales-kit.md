@@ -1,5 +1,3 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
-
 # Selling
 
 The **Selling** pillar of the Released Method equips your team to effectively position, promote, and sell your software. It’s not just about flashy presentations — it’s about having the right tools and messaging to engage decision-makers, overcome objections, and close deals.
@@ -18,9 +16,9 @@ Each of the following components plays a role in moving prospects from curiosity
 
 These are your front-line tools for storytelling. Different versions are tailored for different audiences and scenarios:
 
-- **1-Slide Pitch** – Sharp, bold, and fast. Ideal for elevator pitches or intro calls.  
-- **3-Slide Deck** – A quick but compelling overview for early-stage interest.  
-- **15-Slide Presentation** – Covers features, benefits, and use cases in detail — great for discovery sessions.  
+- **1-Slide Pitch** – Sharp, bold, and fast. Ideal for elevator pitches or intro calls.
+- **3-Slide Deck** – A quick but compelling overview for early-stage interest.
+- **15-Slide Presentation** – Covers features, benefits, and use cases in detail — great for discovery sessions.
 - **30-Slide Deep Dive** – Comprehensive product walkthrough for serious buyers or technical audiences.
 
 ---
@@ -47,10 +45,10 @@ Technical buyers care about the details. The datasheet lays out features, specs,
 
 A quick-hit reference guide for the sales team. Includes:
 
-- Key talking points  
-- Objection handling tips  
-- Unique selling propositions  
-- Competitive angles  
+- Key talking points
+- Objection handling tips
+- Unique selling propositions
+- Competitive angles
 
 Helps reps stay sharp and focused in live conversations.
 
@@ -72,11 +70,11 @@ Transparent, scalable pricing options. This tool lays out tiers, features, and l
 
 A product-focused microsite or dedicated section of your main site. It includes:
 
-- Product overview  
-- Customer success stories  
-- Demo requests or trials  
-- Feature lists and FAQs  
-- Clear CTAs for conversion  
+- Product overview
+- Customer success stories
+- Demo requests or trials
+- Feature lists and FAQs
+- Clear CTAs for conversion
 
 Your website is often your first salesperson — make it count.
 
@@ -88,7 +86,7 @@ Sales enablement isn’t optional — it’s what turns great products into succ
 
 Done well, this leads to:
 
-- Faster sales cycles  
-- Higher conversion rates  
-- Better-qualified leads  
+- Faster sales cycles
+- Higher conversion rates
+- Better-qualified leads
 - Stronger market positioning

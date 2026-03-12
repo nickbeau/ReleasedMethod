@@ -1,5 +1,3 @@
-[Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md) | [Team](team-model.md)
-
 # Documentation
 
 Documentation isn’t just a box-ticking exercise — it’s foundational to building, scaling, and supporting software that doesn’t fall apart under pressure. Good documentation brings clarity, reduces risk, accelerates onboarding, and improves long-term maintainability. This guide outlines the key types of documentation you should invest in at each stage of a software project.
@@ -12,7 +10,7 @@ Start with clarity. Envisioning is about boiling down ambition into simple, powe
 
 Examples:
 
-> "Enable seamless international travel through a secure, verifiable COVID-19 vaccine passport."  
+> "Enable seamless international travel through a secure, verifiable COVID-19 vaccine passport."
 > "Help accountants reduce costs and delight clients with smart document automation."
 
 An effective vision is short, sharp, and motivating. If it doesn’t fit on a slide or get you excited, rewrite it.
@@ -23,9 +21,9 @@ An effective vision is short, sharp, and motivating. If it doesn’t fit on a sl
 
 Your architecture sets the tone for everything else — get this wrong and you’ll be rebuilding in six months. Define the tech stack, design patterns, integration strategy, and architectural principles early. Focus on scalability, maintainability, performance, and security. Document:
 
-- Technology choices and rationale  
-- Core components and how they interact  
-- Integration points and boundaries  
+- Technology choices and rationale
+- Core components and how they interact
+- Integration points and boundaries
 - Key design decisions and trade-offs
 
 ---
@@ -36,10 +34,10 @@ This is your dev team's bible. It should make it dead simple for internal and ex
 
 Include:
 
-- Coding conventions and code structure  
-- Branching strategy and pull request process  
-- CI/CD pipelines  
-- Deployment process and environments  
+- Coding conventions and code structure
+- Branching strategy and pull request process
+- CI/CD pipelines
+- Deployment process and environments
 - Testing frameworks and coverage expectations
 
 Good developer docs = faster onboarding + fewer stupid mistakes.
@@ -52,10 +50,10 @@ If external devs are building on top of your product, a polished SDK is non-nego
 
 An effective SDK should have:
 
-- Well-documented APIs with examples  
-- Client libraries for common languages  
-- Authentication and usage instructions  
-- Sandbox/test environments  
+- Well-documented APIs with examples
+- Client libraries for common languages
+- Authentication and usage instructions
+- Sandbox/test environments
 - Sample apps and “hello world” demos
 
 The goal is zero-friction adoption.
@@ -68,10 +66,10 @@ Think like a sysadmin. This documentation covers everything needed to install, c
 
 Include:
 
-- Installation guides (automated and manual)  
-- Configuration options and templates  
-- Environment variables and secrets handling  
-- Common issues and how to fix them  
+- Installation guides (automated and manual)
+- Configuration options and templates
+- Environment variables and secrets handling
+- Common issues and how to fix them
 - Upgrade/downgrade instructions
 
 Make it so clear that even a junior tech can follow it.
@@ -84,10 +82,10 @@ Track what you support, how you roll out changes, and what users can expect. Cle
 
 Cover:
 
-- Supported platforms (OS, browsers, hardware)  
-- Versioning policy (e.g. SemVer)  
-- Release notes (features, bug fixes, breaking changes)  
-- Update/rollback instructions  
+- Supported platforms (OS, browsers, hardware)
+- Versioning policy (e.g. SemVer)
+- Release notes (features, bug fixes, breaking changes)
+- Update/rollback instructions
 - EOL (end-of-life) policies
 
 ---
@@ -98,10 +96,10 @@ Docs go stale — fast. Set up a regular review cadence and assign ownership. Sp
 
 Quality control includes:
 
-- Peer reviews and style guides  
-- Doc versioning and change tracking  
-- Feedback loops from devs and users  
-- Automated link and code snippet testing  
+- Peer reviews and style guides
+- Doc versioning and change tracking
+- Feedback loops from devs and users
+- Automated link and code snippet testing
 - Clear ownership for each section
 
 ---
@@ -109,4 +107,3 @@ Quality control includes:
 ## Final Word
 
 Strong documentation makes everything easier — onboarding, scaling, debugging, selling, and supporting your product. Bake it into your process early. If your docs are an afterthought, so is your product.
-

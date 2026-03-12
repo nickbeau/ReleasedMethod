@@ -1,5 +1,3 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

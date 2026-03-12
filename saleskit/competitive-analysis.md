@@ -1,5 +1,3 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) 
-
 # Competitive Analysis
 > Internal Document
 
@@ -16,4 +14,4 @@ There are a few key items you should compare:
 
 Writing a competitive analysis is quite like working as a journalist comparing products for the market.
 
-The [following site](https://www.top10.com/crm/comparison?utm_source=google&kw=crm%20comparison&c=475412068990&t=search&p=&m=e&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=11117817815&adgroupid=110723820922&targetid=kwd-11655191&interest=&physical=9071791&feedid=&a=7817815&ts=&topic=&gclid=Cj0KCQiAzZL-BRDnARIsAPCJs72f_DOVX-Z_vBgqTVKy0IfERJx6s5nitma0DrglL94_MTq2-y8mtlUaAuO_EALw_wcB) is a good example of a comparison site showing a competitive analysis. 
+The [following site](https://www.top10.com/crm/comparison?utm_source=google&kw=crm%20comparison&c=475412068990&t=search&p=&m=e&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=11117817815&adgroupid=110723820922&targetid=kwd-11655191&interest=&physical=9071791&feedid=&a=7817815&ts=&topic=&gclid=Cj0KCQiAzZL-BRDnARIsAPCJs72f_DOVX-Z_vBgqTVKy0IfERJx6s5nitma0DrglL94_MTq2-y8mtlUaAuO_EALw_wcB) is a good example of a comparison site showing a competitive analysis.

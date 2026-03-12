@@ -1,5 +1,3 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
-
 # Sales Battlecard
 
 > Internal Document

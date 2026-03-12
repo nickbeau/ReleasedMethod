@@ -1,5 +1,3 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
-
 # Sales Presentations
 
 Sales Presentations are PowerPoint decks which describe the solution and can be used as follows:

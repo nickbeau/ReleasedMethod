@@ -1,0 +1,8 @@
+<nav class="site-nav" aria-label="Primary">
+  {% for item in site.data.navigation %}
+    {% assign is_active = item.key == page.nav_key %}
+    <a class="site-nav__link{% if is_active %} is-active{% endif %}" href="{{ item.url | relative_url }}">
+      {{ item.label }}
+    </a>
+  {% endfor %}
+</nav>

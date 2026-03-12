@@ -1,5 +1,3 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
-
 # Introduction to the Released Method
 
 The **Released Method** is a pragmatic, real-world-tested approach to managing and delivering large-scale software systems. It was born during the rise of agile methodologies and blends the best of those practices with lessons learned from decades of hands-on experience.
