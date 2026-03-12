@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 28px;
+}
+
+.site-nav__link {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid #c9c9c9;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.75);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  color: #5e5e5e;
+  font-size: 14px;
+  font-weight: 700;
+  text-shadow: none;
+}
+
+.site-nav__link:hover {
+  color: #b0000b;
+  border-color: #b0000b;
+}
+
+.site-nav__link:focus-visible {
+  outline: 3px solid #303030;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.8);
+}
+
+.site-nav__link.is-active {
+  background: #d5000d;
+  border-color: #b0000b;
+  color: #fff;
+}
+
+#main_content h1:first-child {
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+  .site-nav {
+    gap: 8px;
+    margin-bottom: 22px;
+  }
+
+  .site-nav__link {
+    width: 100%;
+    text-align: center;
+  }
+}

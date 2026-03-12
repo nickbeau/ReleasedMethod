@@ -1,4 +1,5 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) 
+---
+---
 
 # Brochure
 > Customer Facing Document
@@ -21,4 +22,4 @@ Outline what benefits your customer will get from using the solution, what they 
 ## Next Steps
 Commonly called a call to action this helps the customer understand the next steps to take when they are interested.
 
-Microsoft Include a [Sample Brochure Template](https://templates.office.com/en-au/software-brochure-tm00591095) with Office 365.
+Microsoft includes a [Sample Brochure Template](https://templates.office.com/en-au/software-brochure-tm00591095) with Office 365.

@@ -1,4 +1,5 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md)
+---
+---
 
 
 # CRMMe.io
@@ -102,14 +103,14 @@ And in the code
 tokenResult = await TokenProvider.RequestAccessToken(
     new AccessTokenRequestOptions
     {
-        Scopes = new[] { "https://graph.microsoft.com/Calendar.Read" 
+        Scopes = new[] { "https://graph.microsoft.com/Calendar.Read"
     }});
 
 
 if (tokenResult.TryGetToken(out var token))
 {
  //DO WORK HERE
-}       
+}
 ```
 
 Once we had that model worked out, we could begin working with the Microsoft Graph.
@@ -159,7 +160,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-          
+
       - name : download artifacts
         uses: actions/download-artifact@v1
         with:
@@ -212,9 +213,3 @@ We needed a website, quick and simple. [Wix](www.wix.com) came to the rescue. Th
 | Wix Website | $178.29 |
 | Domain (GoDaddy) | $183.43 |
 | **TOTAL** | **$1,514.14** |
-
-
-
-
-
-

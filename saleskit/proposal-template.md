@@ -1,4 +1,5 @@
-[Home](..\README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md)
+---
+---
 
 # Proposal Template
 > Customer Ready Document

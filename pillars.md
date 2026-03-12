@@ -1,5 +1,5 @@
-
-[Home](README.md) | [Why](why.md) | **[Pillars](pillars.md)** | [Systems](systems.md)
+---
+---
 
 # Pillars of the Released Process
 
@@ -48,4 +48,3 @@ The final pillar ensures your software reaches the market and resonates. This in
 These six pillars form a complete, battle-tested framework for managing modern software delivery. They're not standalone functions — they’re interdependent. Weakness in one affects the others.
 
 The Released Process brings them together in a structured, adaptable way — ensuring every product is not just built well, but delivered, adopted, and scaled successfully.
-

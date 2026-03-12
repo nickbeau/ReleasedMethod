@@ -1,4 +1,5 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | **[Team](team-model.md)**
+---
+---
 
 # Team Model
 
@@ -12,20 +13,20 @@ Inspired by insights from Angela Bee Chan of [Hackathons Australia](https://www.
 
 Your startup doesn’t need a 30-person team on day one — but it does need coverage across **business, tech, and design**. That’s where the classic trio comes in:
 
-### 🧠 Hustler  
-- **Who**: The founder, CEO, or commercial lead  
-- **Drives**: Vision, business strategy, customer acquisition, sales, marketing, revenue, and funding  
+### 🧠 Hustler
+- **Who**: The founder, CEO, or commercial lead
+- **Drives**: Vision, business strategy, customer acquisition, sales, marketing, revenue, and funding
 - **Why it matters**: No one buys unless someone sells.
 
-### 💻 Hacker  
-- **Who**: The technical co-founder or first engineer  
-- **Builds**: The first version of the product  
-- **Expansion**: Eventually joined by testers or automation engineers as technical complexity grows  
+### 💻 Hacker
+- **Who**: The technical co-founder or first engineer
+- **Builds**: The first version of the product
+- **Expansion**: Eventually joined by testers or automation engineers as technical complexity grows
 
-### 🎨 Hipster  
-- **Who**: The designer or frontend lead  
-- **Owns**: UI/UX, branding, website, and visual storytelling  
-- **Impact**: Turns your product into something people *want* to use, not just *can* use  
+### 🎨 Hipster
+- **Who**: The designer or frontend lead
+- **Owns**: UI/UX, branding, website, and visual storytelling
+- **Impact**: Turns your product into something people *want* to use, not just *can* use
 
 This trio forms your initial launch team. Without them, you’ll be building blind.
 
@@ -35,17 +36,17 @@ This trio forms your initial launch team. Without them, you’ll be building bli
 
 Once you're past MVP and aiming for market, you need to strengthen operational and legal foundations:
 
-### 💰 Accountant  
-- **Handles**: Bookkeeping, invoicing, tax compliance, financial reporting  
+### 💰 Accountant
+- **Handles**: Bookkeeping, invoicing, tax compliance, financial reporting
 - **Why now**: You’re starting to generate revenue — time to track every dollar.
 
-### ⚖️ Lawyer  
-- **Advises on**: Contracts, IP, privacy, NDAs, compliance  
+### ⚖️ Lawyer
+- **Advises on**: Contracts, IP, privacy, NDAs, compliance
 - **Protects**: Your business and your product from early legal landmines
 
-### 🧪 Tester  
-- **Focuses on**: Manual and exploratory testing  
-- **Adds value**: Catches issues before your customers do  
+### 🧪 Tester
+- **Focuses on**: Manual and exploratory testing
+- **Adds value**: Catches issues before your customers do
 - **Next stage**: Can grow into automated QA and CI/CD pipeline integration
 
 ---
@@ -54,25 +55,25 @@ Once you're past MVP and aiming for market, you need to strengthen operational a
 
 As your user base grows, so does your team. You’ll need to invest in specialised roles to support scale and stability:
 
-### 🎧 Support Team  
-- **Frontline**: Handles customer queries, bug reports, and onboarding  
+### 🎧 Support Team
+- **Frontline**: Handles customer queries, bug reports, and onboarding
 - **Retention booster**: Happy users stick around and spread the word
 
-### 👨‍💻 Developers  
-- **Expand capacity**: Build new features, squash bugs, and maintain the codebase  
+### 👨‍💻 Developers
+- **Expand capacity**: Build new features, squash bugs, and maintain the codebase
 - **Essential for**: Keeping up with demand and scaling architecture
 
-### 🖌️ Designers  
-- **Evolve the experience**: Iterate on UI/UX, brand, and communication  
+### 🖌️ Designers
+- **Evolve the experience**: Iterate on UI/UX, brand, and communication
 - **Critical for**: Differentiation and usability
 
-### 🧪 Testers  
-- **Go deep**: Expand coverage, build automated test suites, stress test edge cases  
+### 🧪 Testers
+- **Go deep**: Expand coverage, build automated test suites, stress test edge cases
 - **Part of**: A mature, sustainable release cycle
 
-### 🧾 Administrative Roles  
-- **Includes**: HR, finance, legal ops, sales ops, and executive assistants  
-- **When to add**: Post-product-market fit, when complexity starts to bite  
+### 🧾 Administrative Roles
+- **Includes**: HR, finance, legal ops, sales ops, and executive assistants
+- **When to add**: Post-product-market fit, when complexity starts to bite
 - **Why**: Free up your core team to focus on growth, not admin
 
 ---

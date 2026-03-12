@@ -1,4 +1,5 @@
-[Home](README.md) | [Why](why.md) | [Pillars](pillars.md) | [Systems](systems.md) | [Team](team-model.md) | [Corporate Setup](corporate-setup.md)
+---
+---
 
 # Corporate Setup
 
@@ -10,52 +11,52 @@ Getting your company structure right from the beginning avoids a mountain of leg
 
 ## Core Setup Checklist
 
-* [ ] **Choose a Company Name**  
+* [ ] **Choose a Company Name**
   Make it unique, available, and not embarrassing when said out loud.
 
-* [ ] **Register the Company**  
+* [ ] **Register the Company**
   Use a professional service or your accountant to set it up properly — this isn’t the time to DIY.
 
-* [ ] **Apply for ABN / ACN (or local equivalent)**  
+* [ ] **Apply for ABN / ACN (or local equivalent)**
   Essential for operating legally and getting paid.
 
-* [ ] **Register for Tax (GST, PAYG, etc.)**  
+* [ ] **Register for Tax (GST, PAYG, etc.)**
   Don’t mess around here — get this sorted early.
 
-* [ ] **Open a Business Bank Account**  
+* [ ] **Open a Business Bank Account**
   Never mix personal and business funds. Ever.
 
-* [ ] **Buy a Domain Name**  
+* [ ] **Buy a Domain Name**
   Lock in your .com / .com.au and any variations that matter.
 
-* [ ] **Set Up Professional Email**  
+* [ ] **Set Up Professional Email**
   Use Google Workspace or Microsoft 365 — free Gmail is for amateurs.
 
-* [ ] **Get Cloud Accounting Software**  
+* [ ] **Get Cloud Accounting Software**
   Xero, QuickBooks or similar. Your accountant should have a preference — go with that.
 
-* [ ] **Create a GitHub (or GitLab) Organisation**  
+* [ ] **Create a GitHub (or GitLab) Organisation**
   Don’t wait until your code is all over the place.
 
-* [ ] **Set Up Core Cloud Accounts**  
+* [ ] **Set Up Core Cloud Accounts**
   AWS, Azure, GCP — whatever you’re building on. Do it under the company, not your personal email.
 
-* [ ] **Create a Basic Website / Landing Page**  
+* [ ] **Create a Basic Website / Landing Page**
   Doesn't have to be fancy — just a place to show you’re real.
 
-* [ ] **Decide on a Physical Office Setup (if any)**  
+* [ ] **Decide on a Physical Office Setup (if any)**
   Remote-first? Co-working? Hybrid? Figure it out and budget accordingly.
 
-* [ ] **Create a Starter Sales Kit**  
+* [ ] **Create a Starter Sales Kit**
   One-pager, pitch deck, intro email template, and pricing doc — keep it lean but sharp.
 
-* [ ] **Write a Product Roadmap**  
+* [ ] **Write a Product Roadmap**
   Doesn’t need to be a novel — just know what you’re building and why.
 
-* [ ] **Start Building**  
+* [ ] **Start Building**
   Code, mockups, MVP — whatever "build" means for you, get on with it.
 
-* [ ] **Start Selling**  
+* [ ] **Start Selling**
   Don’t wait for perfection. Get your thing in front of real customers ASAP.
 
 ---
@@ -64,41 +65,41 @@ Getting your company structure right from the beginning avoids a mountain of leg
 
 These aren’t "optional" — they just might not be day-one tasks.
 
-* [ ] **Branding and Positioning**  
+* [ ] **Branding and Positioning**
   Logo, colour palette, tone of voice — get consistent, not cute.
 
-* [ ] **Marketing Strategy**  
+* [ ] **Marketing Strategy**
   Who are you targeting? How are you reaching them? What’s the message?
 
-* [ ] **Business Insurance**  
+* [ ] **Business Insurance**
   Public liability, professional indemnity, cyber — get a broker to help.
 
-* [ ] **CRM System**  
+* [ ] **CRM System**
   Even a simple HubSpot or Notion setup is better than spreadsheets.
 
-* [ ] **Hire Foundational Team Members**  
+* [ ] **Hire Foundational Team Members**
   Don’t hire too early. But when you do, make sure they're mission-fit.
 
-* [ ] **Internal Policies and Procedures**  
+* [ ] **Internal Policies and Procedures**
   Keep it lightweight, but write down how things work as they scale.
 
-* [ ] **Market Research and Validation**  
+* [ ] **Market Research and Validation**
   Talk to real users. Validate before you overbuild.
 
-* [ ] **Financial Model**  
+* [ ] **Financial Model**
   Build a forecast, set milestones, know your runway.
 
-* [ ] **Partnerships and Alliances**  
+* [ ] **Partnerships and Alliances**
   Look for leverage — don’t try to do everything solo.
 
-* [ ] **Scalability Planning**  
+* [ ] **Scalability Planning**
   Think ahead: people, tech, systems. Avoid rebuilds mid-growth.
 
-* [ ] **IT Infrastructure and Security**  
+* [ ] **IT Infrastructure and Security**
   Use single sign-on, 2FA, password managers — basic hygiene.
 
-* [ ] **Compliance and Legal**  
+* [ ] **Compliance and Legal**
   IP agreements, NDAs, terms of service, privacy policy — no excuses here.
 
-* [ ] **Learning and Development**  
+* [ ] **Learning and Development**
   Build a culture of growth early. It’ll pay off.

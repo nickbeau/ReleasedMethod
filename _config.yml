@@ -1,1 +1,114 @@
 theme: jekyll-theme-tactile
+title: Released Method
+description: Pragmatic guidance for planning, releasing, and selling software products.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: "index.md"
+      type: pages
+    values:
+      nav_key: home
+  - scope:
+      path: "introduction.md"
+      type: pages
+    values:
+      nav_key: introduction
+  - scope:
+      path: "why.md"
+      type: pages
+    values:
+      nav_key: why
+  - scope:
+      path: "pillars.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "management-reporting.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "software-planning.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "testing-qa.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "release-management.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "documentation.md"
+      type: pages
+    values:
+      nav_key: pillars
+  - scope:
+      path: "systems.md"
+      type: pages
+    values:
+      nav_key: systems
+  - scope:
+      path: "team-model.md"
+      type: pages
+    values:
+      nav_key: team
+  - scope:
+      path: "sales-kit.md"
+      type: pages
+    values:
+      nav_key: sales-kit
+  - scope:
+      path: "saleskit"
+      type: pages
+    values:
+      nav_key: sales-kit
+  - scope:
+      path: "CODE_OF_CONDUCT.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "CONTRIBUTING.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "startup-checklist.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "corporate.setup.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "usefulresources.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "glossary.md"
+      type: pages
+    values:
+      nav_key: resources
+  - scope:
+      path: "whitepaper-crmme.io.md"
+      type: pages
+    values:
+      nav_key: resources
